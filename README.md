@@ -6,14 +6,19 @@ The Beanstalk DAO governs the [Beanstalk Farms Committee (BFC)](https://docs.bea
 
 ![image](https://user-images.githubusercontent.com/28496268/185769076-66b6c6e6-8f37-42a8-9b4b-b982c5a4159c.png)
 
-- [BBIP](bbip/) (deprecated)
-- [BDP](bdp/) (deprecated)
-- [**BFBP**](bfbp/)
-- [**BFCP**](bfcp/)
-- [BFP](bfp/) (deprecated)
-- [BFRPP](bfrpp/) (deprecated)
+### Active
+
 - [**BIP**](bip/)
-- [BMP](bmp/) (deprecated)
 - [**BOP**](bop/)
-- [BPP](bpp/) (deprecated)
+- [**BFCP**](bfcp/)
+- [**BFBP**](bfbp/)
 - [**BSP**](bsp/)
+
+### Deprecated
+
+- [BBIP](bbip/)
+- [BDP](bdp/)
+- [BFP](bfp/)
+- [BFRPP](bfrpp/)
+- [BMP](bmp/)
+- [BPP](bpp/)
