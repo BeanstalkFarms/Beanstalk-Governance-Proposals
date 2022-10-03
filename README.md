@@ -8,17 +8,20 @@ The Beanstalk DAO governs the [Beanstalk Farms Committee (BFC)](https://docs.bea
 
 ### Active
 
-- [**BIP**](bip/)
-- [**BOP**](bop/)
-- [**BFCP**](bfcp/)
-- [**BFBP**](bfbp/)
-- [**BSP**](bsp/)
+- [Beanstalk Improvement Proposal](bip/) (BIP)
+- [Beanstalk Operations Proposal](bop/) (BOP)
+- [Beanstalk Farms Committee Proposal](bfcp/) (BFCP)
+- [Beanstalk Farms Budget Proposal](bfbp/) (BFBP)
+- [Bean Sprout Proposal](bsp/) (BSP)
+- [Beanstalk Immunefi Response](bir/) (BIR)*
+
+*BIRs are not quite governance proposals, but are included on this page for completion's sake.
 
 ### Deprecated
 
-- [BBIP](bbip/)
-- [BDP](bdp/)
-- [BFP](bfp/)
-- [BFRPP](bfrpp/)
-- [BMP](bmp/)
-- [BPP](bpp/)
+- [Beanstalk Budget Improvement Proposal](bbip/) (BBIP)
+- [Beanstalk Development Proposal](bdp/) (BDP)
+- [Beanstalk Farms Proposal](bfp/) (BFP)
+- [Beanstalk Farms Retroactive Payment Proposal](bfrpp/) (BFRPP)
+- [Beanstalk Marketing Proposal](bmp/) (BMP)
+- [Beanstalk Pause Proposal](bpp/) (BPP)
