@@ -2,7 +2,7 @@
 
 Proposed: September 29, 2022
 
-Status: Proposed
+Status: Passed
 
 Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x567cd46fe73c130f4ac2e95ba787ff0ce39dd74cea9e51c781702c52afe964fc)
 
