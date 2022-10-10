@@ -1,4 +1,4 @@
-# EBIP-0: Emergency BIP-0
+# EBIP-0: Earned Beans Forfeiture
 
 Committed: August 9, 2022
 
