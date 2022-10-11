@@ -1,4 +1,4 @@
-# BIP-2: Capital Gains Tax Efficiency Improvement and adjustment to Weather Changes
+# BIP-2: Capital Gains Tax Efficiency Improvement and Adjustment to Weather Changes
 
 Proposed: November 4, 2021
 
