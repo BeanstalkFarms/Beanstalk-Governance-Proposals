@@ -1,4 +1,4 @@
-# BIP-14: Beanstalk Q2 2022 Budget
+# BIP-14: Beanstalk Farms Q2 2022 Budget
 
 Proposed: April 3, 2022
 
