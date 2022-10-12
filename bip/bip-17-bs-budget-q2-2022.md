@@ -4,7 +4,7 @@ Proposed: April 14, 2022
 
 Status: Failed (the [governance exploit](https://bean.money/blog/beanstalk-governance-exploit) occurred during the Voting Period)
 
-Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/69)
+Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/69), [Arweave](https://arweave.net/QXiE8hnJII-miqeLrEPmDES_kVd3CqiZ1UIf9v8dsTk)
 
 ---
 
