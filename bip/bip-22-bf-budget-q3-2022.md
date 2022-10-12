@@ -4,7 +4,7 @@ Proposed: August 9, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x770efe960a45d7f91b21b6b13106412b666ad5f90c2a27e398867972aa16f893)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x770efe960a45d7f91b21b6b13106412b666ad5f90c2a27e398867972aa16f893), [Arweave](https://arweave.net/6aaL15siu33-dSL5wbrF0t10xzhIZ1IDQTVK-dINsHw)
 
 ---
 
@@ -41,7 +41,7 @@ Beanstalk Farms
 Beanstalk Farms designed the Q3 2022 budget to enable core contributors to work towards the following goals:
 * Decentralized development: Continue to develop a diverse organization without any single points of failure or dependence.
 * Focus and flexibility: Be able to deliver high quality output in a timely fashion, while having the flexibility to fund and support a wide variety of unique opportunities related to Beanstalk.
-* Attracting high quality talent: Attracting and retaining high quality talent is critical to the success of Beanstalk, and the _Incentive Alignment _section has been designed with this in mind.
+* Attracting high quality talent: Attracting and retaining high quality talent is critical to the success of Beanstalk, and the Incentive Alignment section has been designed with this in mind.
 
 ## Post-Exploit Output
 
