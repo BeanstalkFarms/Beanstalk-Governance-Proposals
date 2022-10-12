@@ -2,7 +2,7 @@
 
 Proposed: October 7, 2022
 
-Status: Proposed
+Status: Passed
 
 Link: [Snapshot](https://snapshot.org/#/wearebeansprout.eth/proposal/0x35facfb21c19eea08fed263a0a127aa907fa8f7b0c70a909b9403e0f1370a280)
 
