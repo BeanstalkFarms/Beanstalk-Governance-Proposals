@@ -4,7 +4,7 @@ Proposed: July 29, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xbe30bc43d7185ef77cd6af0e5c85da7d7c06caad4c0de3a73493ed48eae32d71)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xbe30bc43d7185ef77cd6af0e5c85da7d7c06caad4c0de3a73493ed48eae32d71), [Arweave](https://arweave.net/3JDxWivppLxGjApfZ8uKQZUYgzQ5NFHDjvGr8edPeXk)
 
 ---
 
@@ -247,25 +247,25 @@ The following changes have been made to Beanstalk, but have not been audited.
 All relevant changes with the exception of `CurveFacet` and `LibUnripeSilo` can be viewed [here](https://github.com/BeanstalkFarms/Beanstalk/compare/post-audit...bip-21).
 
 
-|File Name |Changes  | Type|
---- | --- | ---|
-|`C.sol`|Changed constants.|Parameter Change|
-|`CurveFacet.sol`|Most functionality—some were audited, but all have been heavily tested.|Bug Fix|
-|`FertilizerFacet.sol`|Renamed variable; added `getCurrentHumidity()`.|Refactor / Usability|
-|`FieldFacet.sol`|Moved burn token logic to LibTransfer's `burnToken()` function.|Refactor|
-|`PauseFacet.sol`|Removed 2 unnecessary lines of code.|Clean Up|
-|`Silo.sol`|Fixed an issue with the BDV of Earned Beans; removed unused variables.|Bug Fix|
-|`TokenFacet.sol`|Removed an unnecessary variable.|Clean Up|
-|`UnripeFacet.sol`|Renamed `ripen()` to `chop()`; renamed `claimUnripe()` to `pick()`; added Internal Balance support for `pick()` and `chop()`; added `picked()` function.|Refactor|
-|`LibWhitelist.sol`|Removed BEAN_LUSD variables.|Clean Up|
-|`LibTransfer.sol`|Added generalized `burnToken()` function with Internal Balance support.|Refactor|
-|`LibUnripeSilo.sol`|Most functionality—some were audited, but all have been heavily tested.|Updated to account for Barn Raise changes|
-|`LibCurveConvert.sol` / `LibMetaCurveConvert.sol` / `LibBeanMetaCurve.sol` / `LibCurve.sol`|Change the `lpToPeg()` function to account for Curve exchange fee.|Bug Fix|
-|`FertilizerFacet.sol`|Added `getFertilizers()` function.|Usability|
-|`LibCurveOracle.sol`|Added `MetapoolOracle` event.|Usability|
-|`SeasonFacet.sol`|Moved `Sunrise` event call to the start of the `sunrise()` function instead of the end.|Refactor|
-|`Weather.sol`|Added the Season number to Weather related events.|Refactor|
-|`SiloFacet.sol`|Changed the `updateUnripeDeposit()` and `updateUnripeDeposits()` functions to `enrootDeposit()` and `enrootDeposits()`, respectively.| Refactor |
+| File Name                                                                                   | Changes                                                                                                                                                  | Type                                      |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| `C.sol`                                                                                     | Changed constants.                                                                                                                                       | Parameter Change                          |
+| `CurveFacet.sol`                                                                            | Most functionality—some were audited, but all have been heavily tested.                                                                                  | Bug Fix                                   |
+| `FertilizerFacet.sol`                                                                       | Renamed variable; added `getCurrentHumidity()`.                                                                                                          | Refactor / Usability                      |
+| `FieldFacet.sol`                                                                            | Moved burn token logic to LibTransfer's `burnToken()` function.                                                                                          | Refactor                                  |
+| `PauseFacet.sol`                                                                            | Removed 2 unnecessary lines of code.                                                                                                                     | Clean Up                                  |
+| `Silo.sol`                                                                                  | Fixed an issue with the BDV of Earned Beans; removed unused variables.                                                                                   | Bug Fix                                   |
+| `TokenFacet.sol`                                                                            | Removed an unnecessary variable.                                                                                                                         | Clean Up                                  |
+| `UnripeFacet.sol`                                                                           | Renamed `ripen()` to `chop()`; renamed `claimUnripe()` to `pick()`; added Internal Balance support for `pick()` and `chop()`; added `picked()` function. | Refactor                                  |
+| `LibWhitelist.sol`                                                                          | Removed BEAN_LUSD variables.                                                                                                                             | Clean Up                                  |
+| `LibTransfer.sol`                                                                           | Added generalized `burnToken()` function with Internal Balance support.                                                                                  | Refactor                                  |
+| `LibUnripeSilo.sol`                                                                         | Most functionality—some were audited, but all have been heavily tested.                                                                                  | Updated to account for Barn Raise changes |
+| `LibCurveConvert.sol` / `LibMetaCurveConvert.sol` / `LibBeanMetaCurve.sol` / `LibCurve.sol` | Change the `lpToPeg()` function to account for Curve exchange fee.                                                                                       | Bug Fix                                   |
+| `FertilizerFacet.sol`                                                                       | Added `getFertilizers()` function.                                                                                                                       | Usability                                 |
+| `LibCurveOracle.sol`                                                                        | Added `MetapoolOracle` event.                                                                                                                            | Usability                                 |
+| `SeasonFacet.sol`                                                                           | Moved `Sunrise` event call to the start of the `sunrise()` function instead of the end.                                                                  | Refactor                                  |
+| `Weather.sol`                                                                               | Added the Season number to Weather related events.                                                                                                       | Refactor                                  |
+| `SiloFacet.sol`                                                                             | Changed the `updateUnripeDeposit()` and `updateUnripeDeposits()` functions to `enrootDeposit()` and `enrootDeposits()`, respectively.                    | Refactor                                  |
 
 ## Effective
 
