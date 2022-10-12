@@ -31,12 +31,10 @@ Add LP tokens for the BEAN:LUSD Curve pool (X) to the Silo whitelist.
 
 **BDV function:** The BDV of BEAN:LUSD LP tokens is calculated from the virtual price of X, the LUSD price in 3CRV derived from the LUSD:3CRV pool (lusd3CrvPrice), and the BEAN price in 3CRV derived from the BEAN:3CRV pool (bean3CrvPrice).
 
-Both lusd3CrvPrice and bean3CrvPrice are calculated using the getY() function in the curve metapool contract using the reserves in the pools in the last block ($\Xi - 1$). 
+Both lusd3CrvPrice and bean3CrvPrice are calculated using the getY() function in the curve metapool contract using the reserves in the pools in the last block $\Xi-1$. 
 
 We propose the BDV function for X is:
-$$
-BDV(x) = x * \text{virtual_price}(X) * \text{min}(1, \text{lusd3CrvPrice} / \text{bean3CrvPrice})
-$$
+$BDV(x)=x*\{virtualPrice}(X)*\{min}(1,\{lusd3CrvPrice}/\{bean3CrvPrice})$
 
 **Stalk per BDV:** 1 Stalk per BDV.
 
