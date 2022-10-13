@@ -4,7 +4,7 @@ Proposed: February 2, 2022
 
 Status: Passed
 
-Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/44)
+Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/44), [Arweave](https://arweave.net/4Ltm8q74VIobeQ9dRB8wSYR7wWpCbe6vX0TaQhpIMnE)
 
 ---
 
