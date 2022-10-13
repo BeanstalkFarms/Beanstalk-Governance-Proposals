@@ -28,7 +28,7 @@ Beanstalk Farms
 - Enable partial claim functionality to further leverage the benefits of BIP-2.
 - Allow Silo Members to withdraw assets while having voted for active BIPs, and allow the BIP proposer to withdraw up to the minimum proposal threshold.
 - Allow Silo Members to vote on multiple BIPs in a single transaction.
-- Change the formula for the Soil at the start of each Season ($S_t^{\text{start}}$) to:
+- Change the formula for the Soil at the start of each Season $S_t^{\text{start}}$ to:
 
 $$
 S_t^{\text{start}} = \text{max}\left(-\Delta\bar{b}_{t-1}, \frac{h_t}{1+\frac{w}{100}}\right)
