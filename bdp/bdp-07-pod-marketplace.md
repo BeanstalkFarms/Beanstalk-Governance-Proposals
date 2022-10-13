@@ -4,7 +4,7 @@ Proposed: November 24, 2021
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x12b1f802403cdcf111b7322cd637cc6424100fbd259efe36797835a7c01ea0ca) (misnumbered as BDP-6 on Snapshot)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x12b1f802403cdcf111b7322cd637cc6424100fbd259efe36797835a7c01ea0ca) (misnumbered as BDP-6 on Snapshot), [Arweave](https://arweave.net/HjJGaPteJNNOAy625_A9bjygjwKI0z8pyxfROjLXxLs)
 
 ---
 
