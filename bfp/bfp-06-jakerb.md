@@ -4,7 +4,7 @@ Proposed: January 7, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x3e7c9a9e297b13ca56d8b7b4a7e692702ea6eacec84a277f5092a10c7cac3e63)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x3e7c9a9e297b13ca56d8b7b4a7e692702ea6eacec84a277f5092a10c7cac3e63), [Arweave](https://arweave.net/tbaE9twJFb78lKaVHS2Y5hVBaWlKz14sDTkJiesS20I)
 
 ---
 
