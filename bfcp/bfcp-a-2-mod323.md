@@ -4,7 +4,7 @@ Proposed: July 30, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x7983e55ec734bae90eae0f0eb8b3fb1ce8501ad33aef64d98033f7765c13c2fe) (misspelled as mod223 on Snapshot)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x7983e55ec734bae90eae0f0eb8b3fb1ce8501ad33aef64d98033f7765c13c2fe) (misspelled as mod223 on Snapshot), [Arweave](https://arweave.net/fZDBmoXR25P_lXPcdLRf4AN0p0J37E00oLHhGG6pjcc)
 
 ---
 
