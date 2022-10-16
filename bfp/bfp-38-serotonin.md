@@ -12,7 +12,7 @@ Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xd48969fca0
 - [Summary](#summary)
 - [Reasoning](#reasoning)
 - [Details of Engagement](#details-of-engagement)
-- [Propsoed Budget](#proposed-budget)
+- [Proposed Budget](#proposed-budget)
 
 ## Proposer
 
