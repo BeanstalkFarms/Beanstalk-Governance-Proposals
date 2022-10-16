@@ -12,7 +12,6 @@ Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xbbfe111ab3
 - [Proposal](#proposal)
 - [Resume](#resume)
 - [Role Definition](#role-definition)
-- [Payment](#payment)
 - [Commitment and Compensation](#commitment-and-compensation)
 
 ## Proposer
