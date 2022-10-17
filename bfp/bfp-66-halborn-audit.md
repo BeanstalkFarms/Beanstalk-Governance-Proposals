@@ -10,8 +10,8 @@ Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x54fad9c756
 
 - [Proposer](#proposer)
 - [Summary](#summary)
+- [Problem](#problem)
 - [Proposed Solution](#proposed-solution)
-- [Role Definition](#role-definition)
 - [Payment](#payment)
 - [Rationale](#rationale)
 
