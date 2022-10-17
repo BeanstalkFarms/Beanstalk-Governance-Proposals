@@ -4,7 +4,7 @@ Proposed: November 8, 2021
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/QmQUv3EaMYZ3pxyK2iJ9MNJtfm9YByLReafAyUbH9m9if9)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/QmQUv3EaMYZ3pxyK2iJ9MNJtfm9YByLReafAyUbH9m9if9), [Arweave](https://arweave.net/Oq6AYZ2q_pYuBwAip1J8y2rDQ4IojpN4_9tWi2Em9SE)
 
 ---
 
