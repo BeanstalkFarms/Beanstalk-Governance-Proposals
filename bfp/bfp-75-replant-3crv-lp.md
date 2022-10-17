@@ -4,7 +4,7 @@ Proposed: June 10, 2022
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xa3834c289604364a1cb0cddfc6397f89bb66fac673ca82e7869fee7167e92431)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xa3834c289604364a1cb0cddfc6397f89bb66fac673ca82e7869fee7167e92431), [Arweave](https://arweave.net/KXn6qIqe2-bNC848nOI3wMY0-oGHISQCvyVW8FOo0eM)
 
 ---
 
