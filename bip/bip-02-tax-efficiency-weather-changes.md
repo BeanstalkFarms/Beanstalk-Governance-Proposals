@@ -18,13 +18,13 @@ Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/4)
 ## Summary
 
 - Change the structure of Pod harvests and Withdrawal claims to improve tax efficiency.
-- Adjust the 4 Weather Change cases when $P > 1$, the Pod Rate ($R^{D}$) is above the optimal level of debt ($R^{D^*}$), and demand for Soil is steady or increasing.
+- Adjust the 4 Weather Change cases when $P > 1$, the Pod Rate $R^{D}$ is above the optimal level of debt $R^{D^*}$, and demand for Soil is steady or increasing.
 
 ## Problem
 
 The current structure of harvest and claim transactions is potentially inefficient from a tax perspective in instances where the funds are immediately redeposited or resown in Beanstalk. Currently, in any harvest or claim, the assets harvested or claimed are first sent to the transacting wallet, and then sent back to Beanstalk. A member of the Beanstalk community with an accounting background suggested this could potentially be viewed as a taxable event.
 
-The current Weather Changes are suboptimal for the current state of Beanstalk. In general, the Weather Changes are set in a conservative nature: Beanstalk would prefer to regularly pay a higher than necessary interest rate to attract creditors in a timely manner than regularly offer too low of an interest rate, fail to attract creditors, and enter a negative feedback loop. When the debt level is greater than \(R^{D^*}\) Beanstalk is particularly conservative in its Weather Changes. Now, as the price has once again started to oscillate more closely around $1 even with a higher than optimal debt level, it is an appropriate time for Beanstalk to be slightly more aggressive in lowering the Weather when there is steady or increasing demand for Soil with P > 1. This will allow Beanstalk to gradually lower the Weather as appropriate while it lowers the Pod Rate.
+The current Weather Changes are suboptimal for the current state of Beanstalk. In general, the Weather Changes are set in a conservative nature: Beanstalk would prefer to regularly pay a higher than necessary interest rate to attract creditors in a timely manner than regularly offer too low of an interest rate, fail to attract creditors, and enter a negative feedback loop. When the debt level is greater than $R^{D^*}$ Beanstalk is particularly conservative in its Weather Changes. Now, as the price has once again started to oscillate more closely around $1 even with a higher than optimal debt level, it is an appropriate time for Beanstalk to be slightly more aggressive in lowering the Weather when there is steady or increasing demand for Soil with P > 1. This will allow Beanstalk to gradually lower the Weather as appropriate while it lowers the Pod Rate.
 
 ## Proposed Solution
 
