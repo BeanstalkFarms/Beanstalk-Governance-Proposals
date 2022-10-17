@@ -23,13 +23,13 @@ Beanstalk Farms
 ## Summary
 
 - Change the Minimum Soil Rate to factor in the Weather and Pods harvested at the start of the Season.
-- Have the Soil decrease by the time weighted average shortage of Beans in the BEAN:ETH pool over the previous Season ($\Delta \bar{b}_{t-1}$).
+- Have the Soil decrease by the time weighted average shortage of Beans in the BEAN:ETH pool over the previous Season $\Delta \bar{b}_{t-1}$.
 
 ## Problem
 
-Currently, the Available Soil is at or below the Minimum Soil Rate every Season. Based on the current Weather (~2000%+) and current Minimum Soil Rate (.1%), Beanstalk is willing to issue Pods worth more than 2% of the total Bean supply every hour. While the Pod Rate has started to decrease slightly, when there is excess demand for Soil and Beans, Beanstalk should be deleveraging faster than it currently is. This is indicative that the Minimum Soil Rate is implemented in a suboptimal fashion: it does not currently factor in the Weather ($w$) or Pods being Harvested at the start of each Season.
+Currently, the Available Soil is at or below the Minimum Soil Rate every Season. Based on the current Weather (~2000%+) and current Minimum Soil Rate (.1%), Beanstalk is willing to issue Pods worth more than 2% of the total Bean supply every hour. While the Pod Rate has started to decrease slightly, when there is excess demand for Soil and Beans, Beanstalk should be deleveraging faster than it currently is. This is indicative that the Minimum Soil Rate is implemented in a suboptimal fashion: it does not currently factor in the Weather $w$ or Pods being Harvested at the start of each Season.
 
-Having observed the behavior of lenders during the previous few weeks, it is evident that scarcity of Soil is a large driver of demand for Soil: As Soil started to diminish, there was a race for Soil. Increasing the scarcity of Soil when $\bar{P}_{t-1} > 1$  should further improve the efficiency of the Soil market. When $\bar{P}_{t-1} > 1$ for a Season, the Soil currently does not decrease even though Beanstalk does not need to attract as many lenders as when $\bar{P}_{t-1} < 1$. 
+Having observed the behavior of lenders during the previous few weeks, it is evident that scarcity of Soil is a large driver of demand for Soil: As Soil started to diminish, there was a race for Soil. Increasing the scarcity of Soil when ![](https://arweave.net/yCUz21UEpMHwrAY4qJosJb-MZNQ3aPrAtyDr2_97EKE)  should further improve the efficiency of the Soil market. When $\bar{P}_{t-1} > 1$ for a Season, the Soil currently does not decrease even though Beanstalk does not need to attract as many lenders as when $\bar{P}_{t-1} < 1$. 
 
 ## Proposed Solution
 
