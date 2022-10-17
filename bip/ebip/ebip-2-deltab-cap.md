@@ -30,6 +30,7 @@ Note: Bugs or security vulnerabilities qualify as emergencies. Emergency action 
 * GitHub PR: https://github.com/BeanstalkFarms/Beanstalk/pull/92
 * GitHub Commit Hash: [7168560db94426bbf736b4919a1ea4bccbdeab27](https://github.com/BeanstalkFarms/Beanstalk/commit/7168560db94426bbf736b4919a1ea4bccbdeab27)
 * Gnosis Transaction: https://etherscan.io/tx/0x1ca14810306dfcb098950137f58b53a4034fe0f097985ea2403ec9d5de467076
+* Arweave: https://arweave.net/3GyVJLO0YqhwJHWZeiykWYu4G6SsfcV0alP-1DfMygk
 
 ## Problem
 
