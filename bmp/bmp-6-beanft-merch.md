@@ -4,7 +4,7 @@ Proposed: November 18, 2021
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x6385dca5f4b5b10d138710d30871d14e530b47a5dfcfb04dafac0a1890ee12b1) (misnumbered as BMP-X on Snapshot)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x6385dca5f4b5b10d138710d30871d14e530b47a5dfcfb04dafac0a1890ee12b1) (misnumbered as BMP-X on Snapshot), [Arweave](https://arweave.net/wKBuIkjEPV0a_w66ltc8bCmI3v5gwjq5CW1kKGuVkTQ)
 
 ---
 
