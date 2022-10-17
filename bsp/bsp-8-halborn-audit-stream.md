@@ -4,7 +4,7 @@ Proposed: October 7, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/wearebeansprout.eth/proposal/0x35facfb21c19eea08fed263a0a127aa907fa8f7b0c70a909b9403e0f1370a280)
+Link: [Snapshot](https://snapshot.org/#/wearebeansprout.eth/proposal/0x35facfb21c19eea08fed263a0a127aa907fa8f7b0c70a909b9403e0f1370a280), [Arweave](https://arweave.net/MW3BKUXCRYZkoJxxkNQ0gg7rdkR3x1V_assSk1SNbRI)
 
 ---
 
