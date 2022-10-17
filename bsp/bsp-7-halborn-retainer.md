@@ -4,7 +4,7 @@ Proposed: August 18, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/wearebeansprout.eth/proposal/0x7b2d54f3691fa65fc784e3398425d518eab93d233f3ad0abd3d87b572cf5ab2f)
+Link: [Snapshot](https://snapshot.org/#/wearebeansprout.eth/proposal/0x7b2d54f3691fa65fc784e3398425d518eab93d233f3ad0abd3d87b572cf5ab2f), [Arweave](https://arweave.net/D-nLwkCHd_lIb6qCmF5HDL817XGJ1GfehtFpY4lxE40)
 
 ---
 
