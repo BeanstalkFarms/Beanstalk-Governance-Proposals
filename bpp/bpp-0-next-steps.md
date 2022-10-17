@@ -4,7 +4,7 @@ Proposed: November 23, 2021
 
 Status: Passed for immediate patch
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xffc6033eb5a4e53f4da5df1c4011bacc12244914885fe11e6a6f2d09d856feed)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xffc6033eb5a4e53f4da5df1c4011bacc12244914885fe11e6a6f2d09d856feed), [Arweave](https://arweave.net/rXZL_4Dqb27UsXJDbVRIrWc7Wvh0oRQEhl3d4CTktUc)
 
 ---
 
