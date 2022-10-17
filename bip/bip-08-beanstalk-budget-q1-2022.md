@@ -4,7 +4,7 @@ Proposed: December 29, 2021
 
 Status: Passed
 
-Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/34)
+Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/34), [Arweave](https://arweave.net/Vtb-iyAivnnWqFO3g_DuAVurxEA0CFSYzOMcOpsXwkM)
 
 ---
 
@@ -83,6 +83,7 @@ In Q4, each Snapshot proposal was not approved until it reached a quorum. While 
 Under optimistic approvals, there is no need to vote for a proposal unless it is near reaching a quorum. Once a quorum is reached, it is the outcome of the Snapshot proposal that determines whether an allocation is approved. Accordingly, for smaller allocations a higher quorum must be reached, and for larger allocations a lower quorum. This will allow more flexibility for smaller allocations, and a higher dependency on community input for larger ones. We propose any allocation of less than 10,000 Beans needs 33% for a quorum. Anything allocating 100,000 Beans or more needs a 10% quorum. Any allocation (x) such that 10,000 ≤ x < 100,000 requires a quorum of:
 
 quorum percent = 33 - 23(x - 10,000)/90,000
+
 ![](https://i.imgur.com/Or4jRJZ.png)
 
 ## Incentive Alignment
