@@ -4,7 +4,7 @@ Proposed: November 18, 2021
 
 Status: Failed
 
-Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/6)
+Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/6), [Arweave](https://arweave.net/7pjSPpz8NOoqG4aFkB6M1rWn4tPzjr0o7Z41t4kPd9g)
 
 ---
 
