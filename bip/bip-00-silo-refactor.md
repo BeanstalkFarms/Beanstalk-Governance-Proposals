@@ -4,7 +4,7 @@ Proposed: August 18, 2021
 
 Status: Passed
 
-Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/1)
+Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/1), [Arweave](https://arweave.net/cBvmRC2xNv9pWvT_e-0xkhTIpZc6PPtNqPNzO3c2H5I)
 
 ---
 
