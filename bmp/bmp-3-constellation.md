@@ -4,7 +4,7 @@ Proposed: November 3, 2021
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x395d380ba69ea8590c1e9bd2701ee14ef29bb233a005710af18e357ed65ff7cb)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x395d380ba69ea8590c1e9bd2701ee14ef29bb233a005710af18e357ed65ff7cb), [Arweave](https://arweave.net/OlrahZQWVzrhbwGMnaSNAwveQem8p4YwmQ4gJeblTRI)
 
 ---
 
