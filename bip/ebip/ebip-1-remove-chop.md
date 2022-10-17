@@ -27,6 +27,7 @@ Note: Bugs or security vulnerabilities qualify as emergencies. Emergency action 
 
 * [Gnosis Transaction](https://gnosis-safe.io/app/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x41326a119cf437d901354904a2440236a294a4f2661b4bbc75289ecfc6528222)
 * [Etherscan Transaction](https://etherscan.io/tx/0x0100d62959b09deea2cdccb8c14c5f9495778452d1d2fcda7f5da1a6cd6e9bec)
+* [Arweave](https://arweave.net/w6AuMbl8nA30Oh7d8sfRIML4pVRj6jq23XlDvUlHQoI)
 
 ## Problem
 
