@@ -4,14 +4,14 @@ Proposed: April 22, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x54fad9c756daa38bb4bafadbee2cea6cb98f380fe2d6a62fdf723d0b15430d42)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x54fad9c756daa38bb4bafadbee2cea6cb98f380fe2d6a62fdf723d0b15430d42), [Arweave](https://arweave.net/KjAXTPzs-SDk1ufqeutkvBFOafjXmSI7CmFx7eyzcus)
 
 ---
 
 - [Proposer](#proposer)
 - [Summary](#summary)
+- [Problem](#problem)
 - [Proposed Solution](#proposed-solution)
-- [Role Definition](#role-definition)
 - [Payment](#payment)
 - [Rationale](#rationale)
 

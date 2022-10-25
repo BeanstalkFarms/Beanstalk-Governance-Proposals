@@ -4,7 +4,7 @@ Proposed: January 4, 2022
 
 Status: Passed
 
-Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/32)
+Link: [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/32), [Arweave](https://arweave.net/bvq3Hyql5eBesBZGSy5GGdiz0bkkk2dxXIpcO2MiusM)
 
 ---
 
@@ -28,13 +28,13 @@ Beanstalk Farms
 - Enable partial claim functionality to further leverage the benefits of BIP-2.
 - Allow Silo Members to withdraw assets while having voted for active BIPs, and allow the BIP proposer to withdraw up to the minimum proposal threshold.
 - Allow Silo Members to vote on multiple BIPs in a single transaction.
-- Change the formula for the Soil at the start of each Season ($S_t^{\text{start}}$) to:
+- Change the formula for the Soil at the start of each Season $S_t^{\text{start}}$ to:
 
 $$
 S_t^{\text{start}} = \text{max}\left(-\Delta\bar{b}_{t-1}, \frac{h_t}{1+\frac{w}{100}}\right)
 $$
 
-- Change the inputs to the formulas for $\bar{b}_{t-1}^*$ and $\bar{b}_{t-1}$ (*i.e.*, $b_{t-1},\ y_{t-1}$)  to reflect the number of Beans and Y under the LP Tokens for the BEAN:Y liquidity pool in the Silo at the end of the previous Season.
+- Change the inputs to the formulas for $\bar{b}$*t-1 and $\bar{b}$ t-1 (*i.e.*, $b_{t-1},\ y_{t-1}$)  to reflect the number of Beans and Y under the LP Tokens for the BEAN:Y liquidity pool in the Silo at the end of the previous Season.
 
 ## Problem
 
@@ -74,7 +74,7 @@ $$
 S_t^{\text{start}} = \text{max}\left(-\Delta\bar{b}_{t-1}, \frac{h_t}{1+\frac{w}{100}}\right)
 $$
 
-Silo LP: We propose changing the inputs to the formulas for $\bar{b}_{t-1}^*$ and $\bar{b}_{t-1}$ (currently $b_{t-1},\ y_{t-1}$)  to reflect the number of Beans and Y under the LP Tokens for the BEAN:Y liquidity pool in the Silo at the end of the previous Season.
+Silo LP: We propose changing the inputs to the formulas for $\bar{b}$*t-1 and $\bar{b}$ t-1 (currently $b_{t-1},\ y_{t-1}$)  to reflect the number of Beans and Y under the LP Tokens for the BEAN:Y liquidity pool in the Silo at the end of the previous Season.
 
 ## Economic Rationale
 

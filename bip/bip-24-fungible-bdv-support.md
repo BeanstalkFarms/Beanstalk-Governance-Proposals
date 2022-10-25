@@ -2,9 +2,9 @@
 
 Proposed: September 28, 2022
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xc2d5d46e6504531e0d17253084cb8d1d0e2e43d6de078504825d0f7e66c50655)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xc2d5d46e6504531e0d17253084cb8d1d0e2e43d6de078504825d0f7e66c50655), [Arweave](https://arweave.net/388_OnMbLZt9WYodaLiPMeLmGoTsXfXl8WUcJMEDcUQ)
 
 ---
 

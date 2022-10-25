@@ -4,7 +4,7 @@ Proposed: December 5, 2021
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x9858b00dad00a0dff765b2dfd673acb65ee9371b98bb80d09f31d53873458b38) (misnumbered as BMP-7 on Snapshot)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x9858b00dad00a0dff765b2dfd673acb65ee9371b98bb80d09f31d53873458b38) (misnumbered as BMP-7 on Snapshot), [Arweave](https://arweave.net/NRBbTmQcLQn1Ppnm-NAMuPKJNIYCETUKm6HhrnsEzDc)
 
 ---
 

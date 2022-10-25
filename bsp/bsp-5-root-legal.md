@@ -4,7 +4,7 @@ Proposed: April 4, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xb15f73b10890fa9bb2e2373c233e20fab247558346dd27cb7ac3588f9d3cf7c2) (misnumbered as BSP-3 on Snapshot)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xb15f73b10890fa9bb2e2373c233e20fab247558346dd27cb7ac3588f9d3cf7c2) (misnumbered as BSP-3 on Snapshot), [Arweave](https://arweave.net/ECpeiLVu64ZZt4Op484MxUZ3mrfsev9ezAvkZmKCgu8)
 
 ---
 

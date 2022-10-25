@@ -4,7 +4,7 @@ Proposed: April 15, 2022
 
 Status: Passed, but the [governance exploit](https://bean.money/blog/beanstalk-governance-exploit) occurred during the voting period
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xe8564cb73e098193fcc6470a1216a7192b9edce093422864f48e1ffc2b01f78a)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xe8564cb73e098193fcc6470a1216a7192b9edce093422864f48e1ffc2b01f78a), [Arweave](https://arweave.net/zwserwxalzvwXUT7VKXqPllTKDHjvCtLRCqFLHFW84g)
 
 ---
 

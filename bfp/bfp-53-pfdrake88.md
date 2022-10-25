@@ -4,7 +4,7 @@ Proposed: March 12, 2022
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xbbfe111ab334b04a3cba8153b8932f07a83bc3a60524b2a7a952c2245cd55dbd)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xbbfe111ab334b04a3cba8153b8932f07a83bc3a60524b2a7a952c2245cd55dbd), [Arweave](https://arweave.net/QjAqVPno_OJL8hlV6PJ657YSHWG-54drf2YQGnREfLQ)
 
 ---
 
@@ -12,7 +12,6 @@ Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xbbfe111ab3
 - [Proposal](#proposal)
 - [Resume](#resume)
 - [Role Definition](#role-definition)
-- [Payment](#payment)
 - [Commitment and Compensation](#commitment-and-compensation)
 
 ## Proposer
