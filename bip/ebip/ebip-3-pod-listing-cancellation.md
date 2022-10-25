@@ -25,6 +25,7 @@ This bug was reported by a whitehat on Immunefi.
 ## Links
 
 - GitHub Commit Hash: [b2b7b6af2913dda868030fba4947575258583c69](https://github.com/BeanstalkFarms/Beanstalk/commit/b2b7b6af2913dda868030fba4947575258583c69)
+- [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/135)
 - [Gnosis Transaction](https://gnosis-safe.io/app/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0xdac18161b1a78020e715360658d391ff442fed8ed43cd959516e4d05669f52e9)
 - [Etherscan Transaction](https://etherscan.io/tx/0xaa7cef4a18a4ec997ad045bc68210606d0f69b4da6e9837107dcb43363f2f39a)
 
