@@ -24,13 +24,15 @@ This bug was reported by a whitehat on Immunefi.
 
 ## Links
 
-- GitHub Commit Hash: [236be8fde5a24cf0189543fea14d5d946b1754f4](https://github.com/BeanstalkFarms/Beanstalk/commit/236be8fde5a24cf0189543fea14d5d946b1754f4)
+- GitHub Commit Hash: [b2b7b6af2913dda868030fba4947575258583c69](https://github.com/BeanstalkFarms/Beanstalk/commit/b2b7b6af2913dda868030fba4947575258583c69)
 - [Gnosis Transaction](https://gnosis-safe.io/app/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0xdac18161b1a78020e715360658d391ff442fed8ed43cd959516e4d05669f52e9)
 - [Etherscan Transaction](https://etherscan.io/tx/0xaa7cef4a18a4ec997ad045bc68210606d0f69b4da6e9837107dcb43363f2f39a)
 
 ## Problem
 
 Farmers could cancel Pod Listings on behalf of Farmers by calling the `fillPodListing(...)` function with an input `beanAmount = 0`.
+
+This bug would not have resulted in any loss of funds.
 
 ## Solution
 
