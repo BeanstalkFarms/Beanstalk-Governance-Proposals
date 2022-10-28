@@ -2,9 +2,9 @@
 
 Proposed: October 24, 2022
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x0f3506f4e6143c586df48186f39379bdedbd975c88ac38407e1c53169d38ea1c)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x0f3506f4e6143c586df48186f39379bdedbd975c88ac38407e1c53169d38ea1c), [Arweave](https://arweave.net/YaHu0VJ1jqFSVqm7GvfvvssMNIjkG9epF_v8yj2Z28c)
 
 ---
 
