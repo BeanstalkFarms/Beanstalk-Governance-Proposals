@@ -2,9 +2,7 @@
 
 Proposed: November 1, 2022
 
-Status: Proposed
-
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x528684bb6d888d74c4c6db6efaa6b938d9f9d7ba73f74cbaebf1ce1ff569af23)
+Status: A majority of the BCM Signers deemed a bug report valid by submitting and signing an on-chain rejection, rendering BIP-28 cancelled.
 
 ---
 
