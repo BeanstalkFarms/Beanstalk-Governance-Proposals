@@ -2,7 +2,7 @@
 
 Proposed: November 1, 2022
 
-Status: A majority of the BCM Signers deemed a bug report valid by submitting and signing an on-chain rejection, rendering BIP-28 cancelled.
+Status: Cancelled (A majority of the BCM Signers deemed a bug report valid by submitting and signing an on-chain rejection, see [this verified signature](https://etherscan.io/verifySig/11749) by one of the Signers).
 
 ---
 
