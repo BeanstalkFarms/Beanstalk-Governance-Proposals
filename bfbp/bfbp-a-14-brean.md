@@ -2,9 +2,9 @@
 
 Proposed: October 31, 2022
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x2548f6366edebf5ab836ac8a8c58404301c7ec0cf0ff5b9be4887e3c96fa605a)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x2548f6366edebf5ab836ac8a8c58404301c7ec0cf0ff5b9be4887e3c96fa605a), [Arweave](https://arweave.net/afeiYf4V6vIIQjZPgTKRCPcBtMcNlxtxq7fLvzCBPxE)
 
 ---
 
@@ -38,7 +38,7 @@ This is high leverage work that is critical to improving the efficiency and comp
 
 ## Payment
 
-15,000 Beans/month, paid twice per month, starting from November 1st, 2022 (conditional on Beanstalk Farms being funded by the DAO via future BIPs). This agreement is in place of the payment terms outlined in [BFBP-A-9](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x65131548bad23b00b2d7806e75515c623f792f031178a34cbdddf69874077097).
+15,000 Beans/month, paid twice per month, starting from November 1st, 2022 (conditional on Beanstalk Farms being funded by the DAO via future BIPs). This agreement is in place of the payment terms outlined in [BFBP-A-9](https://arweave.net/V0q_L2pbozWShnlq73Boajm14k9rrdu2cglCAF0RC3Y).
 
 ## Commitment
 
