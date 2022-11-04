@@ -4,6 +4,8 @@ Proposed: November 1, 2022
 
 Status: Cancelled (A majority of the BCM Signers deemed a bug report valid by submitting and signing an on-chain rejection, see [this verified signature](https://etherscan.io/verifySig/11749) by one of the Signers).
 
+Link: [Arweave](https://arweave.net/nAS1_yr86Lrp_GphZLfIU-AU1un-fw-gF5ATUhNpgjk)
+
 ---
 
 - [Proposer](#proposer)
