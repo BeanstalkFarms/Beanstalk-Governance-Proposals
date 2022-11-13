@@ -18,7 +18,7 @@ Beanstalk Community Multisig
 
 ## Emergency Process Note
 
-Per the process outlined in the [BCM Emergency Response Procedures](https://docs.bean.money/governance/beanstalk/bcm-process#emergency-response-procedures), an emergency hotfix may be implemented by an emergency vote of the BCM if the bug is minor and does not require significant code changes.
+Per the process outlined in the [BCM Emergency Response Procedures](https://docs.bean.money/governance/beanstalk/bcm-process#emergency-response-procedures), an emergency hotfix may be implemented by an emergency vote of the BCM if the bug is minor and does not require significant code changes.
 
 This bug was reported by a whitehat on Immunefi.
 
@@ -26,7 +26,7 @@ This bug was reported by a whitehat on Immunefi.
 
 - [Gnosis Transaction](https://app.safe.global/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/tx?id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x1a54d4f9e50d0914e4dd9eccc42bdd453ca247045e1e7bbc9bc7123749fe7843)
 - [Etherscan Transaction](https://etherscan.io/tx/0x1ad6991ad8251302989fe95853e2b0bdd8ed160eb0ed028a1332a92dc652b896)
-- [Arweave](https://arweave.net/KPCgfYhqXNyuQlvY5LVLPtzEm53twUWPvlARZ2IUF6I)
+- [Arweave](https://arweave.net/b2x5DCI4sYFnKF1Pzec-doSjXK_HeOFgEjc5eFC6V2g)
 
 ## Problem
 
@@ -40,12 +40,12 @@ There were 4 outstanding V1 Pod Orders at the time that BIP-29 was committed. On
 
 **The total funds at risk due to this vulnerability** (i.e., not including the Beans initially locked in the V1 Pod Orders, and including the additional Beans obtained by the whitehat) **was 163,247.577957 Beans**. Notably, only the respective addresses that created these V1 Pod Orders could have Cancelled them to take advantage of this vulnerability. 
 
-| Beans locked   | Price per Pod | Pods Ordered |Funds at Risk | Order Id                                                              |
-:----------------|:--------------|:--:|------------|:----------------------------------------------------------------------|
-| 1,025.438536   | 0.10          | 10,254.385360 |9,228.946824  | `0x0f6cc96e210a59fb6a349d46f8c9ec6d4077e05a8f59247a83f2f8a89a7adb43`  | 
-| 10,491.929346  | 0.10          | 104,919.293460 |94,427.364114 | `0x6f668ae24be6e177f8584600dbffea6e07f260e08e21fa47792385913e786da3`  |
-| 1.466423       | 0.001         | 1,466.423000 |1,464.956577  | `0xf47df2678d29e9d57c5e9ed5f8c990e71910918154a2ed6d5235718035d7d8b0`  | 
-| 587.7275199996 | 0.01001       | 58,714.037962 |58,126.3104420004  | `0x186c6468ca4d3ce2575b9527fcf42cc3c86ab7cc915a550c9e84c5443691607a`  |
+| Beans locked   | Price per Pod | Pods Ordered   | Funds at Risk     | Order Id                                                             |
+|:---------------|:-------------:|:---------------|-------------------|:---------------------------------------------------------------------|
+| 1,025.438536   | 0.10          | 10,254.385360  | 9,228.946824      | `0x0f6cc96e210a59fb6a349d46f8c9ec6d4077e05a8f59247a83f2f8a89a7adb43` |
+| 10,491.929346  | 0.10          | 104,919.293460 | 94,427.364114     | `0x6f668ae24be6e177f8584600dbffea6e07f260e08e21fa47792385913e786da3` |
+| 1.466423       | 0.001         | 1,466.423000   | 1,464.956577      | `0xf47df2678d29e9d57c5e9ed5f8c990e71910918154a2ed6d5235718035d7d8b0` |
+| 587.7275199996 | 0.01001       | 58,714.037962  | 58,126.3104420004 | `0x186c6468ca4d3ce2575b9527fcf42cc3c86ab7cc915a550c9e84c5443691607a` |
 
 ## Solution
 
@@ -60,11 +60,11 @@ The following `MarketplaceFacet` is still part of Beanstalk:
 
 The following functions are **removed** from `MarketplaceFacet`:
 
-| Name                       | Selector     | 
-|:---------------------------|:-------------|
-| `createPodOrder(...)`      | `0x82c65124` |
-| `fillPodOrder(...)`        | `0x845a022b` |
-| `cancelPodOrder(...)`      | `0xdf18a3ee` |
+| Name                  | Selector     |
+|:----------------------|:-------------|
+| `createPodOrder(...)` | `0x82c65124` |
+| `fillPodOrder(...)`   | `0x845a022b` |
+| `cancelPodOrder(...)` | `0xdf18a3ee` |
 
 ## Effective
 
