@@ -48,7 +48,7 @@ There were 4 outstanding V1 Pod Orders at the time that BIP-29 was committed. On
 
 ## Solution
 
-Remove the `createPodOrder(...)`, `fillPodOrder(...)` and `cancelPodOrder(...)` functions until a new implementation can be sufficiently audited and re-added.
+Remove the `createPodOrder(...)`, `fillPodOrder(...)` and `cancelPodOrder(...)` functions until a fix can be sufficiently reviewed.
 
 ## **Contract Changes**
 
