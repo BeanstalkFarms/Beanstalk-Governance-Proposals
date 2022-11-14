@@ -26,7 +26,7 @@ This bug was reported by a whitehat on Immunefi.
 
 - [Gnosis Transaction](https://app.safe.global/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/tx?id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x1a54d4f9e50d0914e4dd9eccc42bdd453ca247045e1e7bbc9bc7123749fe7843)
 - [Etherscan Transaction](https://etherscan.io/tx/0x1ad6991ad8251302989fe95853e2b0bdd8ed160eb0ed028a1332a92dc652b896)
-- [Arweave](https://arweave.net/WE73eyNcrbkCSZBAQerylbQ8VAoPjD0HBhVM6-OARVg)
+- [Arweave](https://arweave.net/Eb3qBsLrBdMBGtyaR3lEhK1_r_tS0HvvCgRFmKroPM8)
 
 ## Problem
 
@@ -41,7 +41,7 @@ There were 4 outstanding V1 Pod Orders at the time that BIP-29 was committed. On
 **The total funds at risk due to this vulnerability** (i.e., not including the Beans initially locked in the V1 Pod Orders, and including the additional Beans obtained by the whitehat) **was 105,121.305097 Beans**. Notably, only the respective addresses that created these V1 Pod Orders could have Cancelled them to take advantage of this vulnerability. 
 
 | Beans locked   | Price per Pod | Pods Ordered   |Funds at Risk  | Order Id                                                              |
-:----------------|:--------------|:---------------|:--------------|:----------------------------------------------------------------------|
+|:---------------|:--------------|:---------------|:--------------|:----------------------------------------------------------------------|
 | 1,025.438536   | 0.10          | 10,254.385360  | 9,228.946824  | `0x0f6cc96e210a59fb6a349d46f8c9ec6d4077e05a8f59247a83f2f8a89a7adb43`  | 
 | 10,491.929346  | 0.10          | 104,919.293460 | 94,427.364114 | `0x6f668ae24be6e177f8584600dbffea6e07f260e08e21fa47792385913e786da3`  |
 | 1.466423       | 0.001         | 1,466.423000   | 1,464.956577  | `0xf47df2678d29e9d57c5e9ed5f8c990e71910918154a2ed6d5235718035d7d8b0`  | 
@@ -51,7 +51,7 @@ There were 4 outstanding V1 Pod Orders at the time that BIP-29 was committed. On
 
 Remove the `createPodOrder(...)`, `fillPodOrder(...)` and `cancelPodOrder(...)` functions until a fix can be sufficiently reviewed.
 
-## **Contract Changes**
+## Contract Changes
 
 ### MarketplaceFacet
 
