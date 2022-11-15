@@ -18,7 +18,7 @@ Beanstalk Community Multisig
 
 ## Emergency Process Note
 
-Per the process outlined in the [BCM Emergency Response Procedures](https://docs.bean.money/governance/beanstalk/bcm-process#emergency-response-procedures), an emergency hotfix may be implemented by an emergency vote of the BCM if the bug is minor and does not require significant code changes. 
+Per the process outlined in the [BCM Emergency Response Procedures](https://docs.bean.money/governance/beanstalk/bcm-process#emergency-response-procedures), the BCM can take swift action to protect Beanstalk in the event of a bug or security vulnerability. 
 
 This bug was reported by a whitehat on Immunefi.
 
@@ -35,7 +35,7 @@ In `transferTokenFrom(...)`, only the allowance for Farm (`INTERNAL`) balances f
 
 As of writing on November 15, 2022, the total funds at risk due to this vulnerability was about **$3,087,655 worth of assets**. This could have decreased or increased at any time based on the assets Farmers had in their Circulating balance that they had approved Beanstalk to use, or the value of the tokens themselves fluctuating.
 
-Notably, **these were funds that were approved to be used by Beanstalk. No funds in the Beanstalk contract were ever at risk due to this bug**.
+Notably, **these were funds that were approved to be used by Beanstalk**. The number of Beans at risk roughly equates to the value that could have been removed from the BEAN:3CRV liquidity pool.
 
 All dollar values in the following table are estimates.
 
