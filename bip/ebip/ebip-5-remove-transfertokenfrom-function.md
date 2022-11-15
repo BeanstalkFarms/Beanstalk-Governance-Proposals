@@ -35,7 +35,7 @@ In `transferTokenFrom(...)`, only the allowance for Farm (`INTERNAL`) balances f
 
 As of writing on November 15, 2022, the total funds at risk due to this vulnerability was about **$3,087,655 worth of assets**. This could have decreased or increased at any time based on the assets Farmers had in their Circulating balance that they had approved Beanstalk to use, or the value of the tokens themselves fluctuating.
 
-Notably, **no funds in the Beanstalk contract were ever at risk due to this bug**.
+Notably, **these were funds that were approved to be used by Beanstalk. No funds in the Beanstalk contract were ever at risk due to this bug**.
 
 All dollar values in the following table are estimates.
 
