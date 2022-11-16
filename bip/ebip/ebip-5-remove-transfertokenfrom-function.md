@@ -26,6 +26,7 @@ This bug was reported by a whitehat on Immunefi.
 
 - [Gnosis Transaction](https://app.safe.global/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/tx?id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x344b2bde80d7290f5464adf35fce7fbd742520c68aa7f0aa9cb39a9a0411eaf7)
 - [Etherscan Transaction](https://etherscan.io/tx/0x74f540497e7ee213ae0e3025d2c5dd5567372fdfebfd55adc7c55d8455318b5a)
+- [Arweave](https://arweave.net/VrAGt9-KpCxz_sNHBjdoLiQ6Y6LFSkYrx7JbkPiWYtc)
 
 ## Problem
 
@@ -40,7 +41,7 @@ Notably, **these were funds that were approved to be used by Beanstalk**. The nu
 All dollar values in the following table are estimates.
 
 |    Token    | Tokens at risk | Current value per token | Value at risk   |
-:-------------|:---------------|:------------------------|:----------------|
+|:------------|:---------------|:------------------------|:----------------|
 | BEAN        | 537,582.5167   |  $1.0000                | $537,582.52     |
 | WETH        | 14.19750283    |  $1,263.15              | $17,933.58      |
 | 3CRV        | 29.24003397    |  $1.0165                | $29.72          |
