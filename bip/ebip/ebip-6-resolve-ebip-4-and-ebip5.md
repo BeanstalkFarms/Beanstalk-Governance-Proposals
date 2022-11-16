@@ -27,6 +27,7 @@ In the case of EBIP-6, functionality that was removed in [EBIP-4](https://arweav
 - [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/146)
 - [Gnosis Transaction](https://app.safe.global/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/tx?id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x488c125cb2c9c0fb06d11913e037a193423728075afed1c51f7e6d024e3f05a6)
 - [Etherscan Transaction](https://etherscan.io/tx/0x7e0f3c0a574edb5658028ff0c8460d0d2ddbfd8cfb486b98ed7b10c7aa12b8d1)
+- [Arweave](https://arweave.net/o0cB9SKHQq1y_KqIRZ8oK-xLjtSiTXuiT5dGmkwxygI)
 
 ## Problem
 
@@ -47,7 +48,7 @@ The `transferTokenFrom(...)` function was removed in [EBIP-5](https://arweave.ne
 Update `s.podOrders[id]` for the `id`s of the 3 remaining V1 Pod Orders from the number of Pods Ordered to the number of Beans locked. Information about the 3 V1 Pod Orders is included below:
 
 | Beans locked   | Price per Pod | Pods Ordered   | Order Id                                                              |
-:----------------|:--------------|:---------------|:----------------------------------------------------------------------|
+|:---------------|:--------------|:---------------|:----------------------------------------------------------------------|
 | 10,491.929346  | 0.10          | 104,919.293460 | `0x6f668ae24be6e177f8584600dbffea6e07f260e08e21fa47792385913e786da3`  |
 | 1.466423       | 0.001         | 1,466.423000   | `0xf47df2678d29e9d57c5e9ed5f8c990e71910918154a2ed6d5235718035d7d8b0`  | 
 | 0.000380       | 0.01001       | 0.037962       | `0x186c6468ca4d3ce2575b9527fcf42cc3c86ab7cc915a550c9e84c5443691607a`  |
