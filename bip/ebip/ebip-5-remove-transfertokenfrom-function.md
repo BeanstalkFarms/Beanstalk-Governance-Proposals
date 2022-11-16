@@ -26,7 +26,7 @@ This bug was reported by a whitehat on Immunefi.
 
 - [Gnosis Transaction](https://app.safe.global/eth:0xa9bA2C40b263843C04d344727b954A545c81D043/transactions/tx?id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x344b2bde80d7290f5464adf35fce7fbd742520c68aa7f0aa9cb39a9a0411eaf7)
 - [Etherscan Transaction](https://etherscan.io/tx/0x74f540497e7ee213ae0e3025d2c5dd5567372fdfebfd55adc7c55d8455318b5a)
-- [Arweave](https://arweave.net/VrAGt9-KpCxz_sNHBjdoLiQ6Y6LFSkYrx7JbkPiWYtc)
+- [Arweave](https://arweave.net/rqnIr_xLdEm4Q0ZiMqWh26lwvNmXUnMv9zu2Is4qOmM)
 
 ## Problem
 
