@@ -2,9 +2,9 @@
 
 Proposed: November 23, 2022
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x60f6fcf25c3fe76003535708d9b14396dace659fddb2d6c7076da8ecce84840e)
+Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x60f6fcf25c3fe76003535708d9b14396dace659fddb2d6c7076da8ecce84840e), [Arweave](https://arweave.net/OyqpqjsTub1j4jaGipqMffPGxVywnmR3g45e9jkMZTM)
 
 ---
 
