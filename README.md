@@ -1,10 +1,8 @@
 # Beanstalk Governance Proposals
 
-This is a repository of past Beanstalk governance proposals. You can read more about the active proposal types in the Farmers' Almanac: https://docs.bean.money/almanac/governance/proposals.
+This is a repository of past Beanstalk governance proposals. You can read more about the active proposal types [in the Farmers' Almanac](https://docs.bean.money/almanac/governance/proposals). 
 
-The Beanstalk DAO governs the [Beanstalk Farms Committee (BFC)](https://docs.bean.money/almanac/governance/beanstalk-farms#beanstalk-farms-committee) and [Bean Sprout](https://docs.bean.money/almanac/governance/bean-sprout). The BFC has discretion over the [Beanstalk Farms](https://docs.bean.money/almanac/governance/beanstalk-farms) budget.
-
-![image](https://user-images.githubusercontent.com/28496268/185769076-66b6c6e6-8f37-42a8-9b4b-b982c5a4159c.png)
+![image](https://user-images.githubusercontent.com/28496268/210401624-d5647695-e5d8-4650-af7c-f68acce146d4.png)
 
 ### Active
 
@@ -13,9 +11,7 @@ The Beanstalk DAO governs the [Beanstalk Farms Committee (BFC)](https://docs.bea
 - [Beanstalk Farms Committee Proposal](bfcp/) (BFCP)
 - [Beanstalk Farms Budget Proposal](bfbp/) (BFBP)
 - [Bean Sprout Proposal](bsp/) (BSP)
-- [Beanstalk Immunefi Response](bir/) (BIR)*
-
-*BIRs are not quite governance proposals, but are included on this page for completion's sake.
+- [Beanstalk Immunefi Response](bir/) (BIR)
 
 ### Deprecated
 
