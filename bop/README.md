@@ -1,5 +1,5 @@
 # Beanstalk Operations Proposal (BOP)
 
-There is a class of proposals that the DAO should vote on that are not necessarily protocol changes a la BIPs. An example may be, but is not limited to, ratifying the set of disclosures about the risks of interacting with Beanstalk.
+Beanstalk Operations Proposals, or BOPs, are proposals for the DAO to agree on processes that do not involve (1) changing the Beanstalk protocol, (2) minting Beans or (3) changing Beanstalk governance. BOPs are voted on by Stalkholders.
 
 You can read more about BOPs [here](https://docs.bean.money/almanac/governance/proposals#bop).
