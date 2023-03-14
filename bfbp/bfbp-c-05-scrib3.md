@@ -2,9 +2,9 @@
 
 Proposed: March 10, 2023
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x1e4bddab0a590cdec5973f74dd891495d8c2c8b96ca5ed8646a6407dbe6c31c5)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x1e4bddab0a590cdec5973f74dd891495d8c2c8b96ca5ed8646a6407dbe6c31c5), [Arweave](https://arweave.net/XMlfrTcxOKvjfCdRjcvAYyeO9wfYI0qG7pSmoJHbpCM)
 
 ---
 
