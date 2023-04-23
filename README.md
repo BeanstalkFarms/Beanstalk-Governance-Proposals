@@ -12,10 +12,11 @@ This is a repository of past Beanstalk governance proposals. You can read more a
 - [Beanstalk Farms Committee Proposal](bfcp/) (BFCP)
 - [Beanstalk Farms Budget Proposal](bfbp/) (BFBP)
 - [Beanstalk Immunefi Response](bir/) (BIR)
+- [Bean Sprout Proposal](bsp/) (BSP)
+- [BeaNFT Proposal](bnp/) (BNP)
 
 ### Deprecated
 
-- [Bean Sprout Proposal](bsp/) (BSP)
 - [Beanstalk Budget Improvement Proposal](bbip/) (BBIP)
 - [Beanstalk Development Proposal](bdp/) (BDP)
 - [Beanstalk Farms Proposal](bfp/) (BFP)
