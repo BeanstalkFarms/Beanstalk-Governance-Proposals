@@ -4,7 +4,7 @@ Proposed: April 26, 2023
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb43ce40fff8c91924a9567638eb60bf3fe60ba2c9b6d2d62b0e38a63f07bb423)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb43ce40fff8c91924a9567638eb60bf3fe60ba2c9b6d2d62b0e38a63f07bb423), [Arweave](https://arweave.net/R_tBcwBU09nKXdfgHXJSKO7uM4xmWdI_B8522JsVI5I)
 
 #### Correction
 The `SeasonFacet` removed from Beanstalk was incorrectly listed in the original Snapshot proposal as `0x83d6e6b446613c9bfaebc64260962bc4f828a3ac`. The correct `SeasonFacet` address is `0x0cEFF1129091A0ffa97cC58d4D160F9676866a24`.
