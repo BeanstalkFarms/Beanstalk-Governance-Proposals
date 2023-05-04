@@ -2,9 +2,12 @@
 
 Proposed: April 26, 2023
 
-Status: Proposed
+Status: Passed
 
 Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb43ce40fff8c91924a9567638eb60bf3fe60ba2c9b6d2d62b0e38a63f07bb423)
+
+#### Correction
+The `SeasonFacet` removed from Beanstalk was incorrectly listed in the original Snapshot proposal as `0x83d6e6b446613c9bfaebc64260962bc4f828a3ac`. The correct `SeasonFacet` address is `0x0cEFF1129091A0ffa97cC58d4D160F9676866a24`.
 
 ---
 
@@ -225,7 +228,7 @@ None.
 ### Season Facet
 
 The following `SeasonFacet` is being removed from Beanstalk:
-* [`0x83d6e6b446613c9bfaebc64260962bc4f828a3ac`](https://etherscan.io/address/0x83d6e6b446613c9bfaebc64260962bc4f828a3ac#code)
+* [`0x0cEFF1129091A0ffa97cC58d4D160F9676866a24`](https://etherscan.io/address/0x0cEFF1129091A0ffa97cC58d4D160F9676866a24#code)
 
 The following `SeasonFacet` is being added to Beanstalk:
 * [`0x9c9360C85cd020D4eF38775F6ADEdD38931f1731`](https://etherscan.io/address/0x9c9360C85cd020D4eF38775F6ADEdD38931f1731#code)
