@@ -1,10 +1,10 @@
-# BFBP-A-21: Hire fullofbeans
+# BFBP-A-22: Hire pizzaman1337
 
 Proposed: May 9, 2023
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0xe85057542976cab025b9f00110af4c35efaaaf3e114db7ab355c62b1e8c1aab5)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0xe85057542976cab025b9f00110af4c35efaaaf3e114db7ab355c62b1e8c1aab5), [Arweave](https://arweave.net/zho4wIZJOSvFaMx1ZPJgmQjmUFAIaWgFENOTTytvj_4)
 
 ---
 
