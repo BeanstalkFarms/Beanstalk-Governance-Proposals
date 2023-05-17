@@ -4,10 +4,14 @@ Proposed: April 26, 2023
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb43ce40fff8c91924a9567638eb60bf3fe60ba2c9b6d2d62b0e38a63f07bb423), [Arweave](https://arweave.net/R_tBcwBU09nKXdfgHXJSKO7uM4xmWdI_B8522JsVI5I)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb43ce40fff8c91924a9567638eb60bf3fe60ba2c9b6d2d62b0e38a63f07bb423), [Arweave](https://arweave.net/7M_RRIDWnWo0MwfyA8pjs1leOGrQlEzEvKTcil4xDIs)
 
-#### Correction
+#### Corrections
 The `SeasonFacet` removed from Beanstalk was incorrectly listed in the original Snapshot proposal as `0x83d6e6b446613c9bfaebc64260962bc4f828a3ac`. The correct `SeasonFacet` address is `0x0cEFF1129091A0ffa97cC58d4D160F9676866a24`.
+
+`sow`, `sowWithMin`, and `sunrise` were listed as View functions. They are Call functions.
+
+The `MetapoolOracle` event was removed from `SeasonFacet`, but was not listed.
 
 ---
 
@@ -193,8 +197,8 @@ The following `FieldFacet` is being added to Beanstalk:
 | `yield`              | `0x28593984`  |  Replace  | View |     &check;       |
 | `maxTemperature`     | `0x7907091f`  |  Add      | View |     &check;       |
 | `remainingPods`      | `0x56ba3e24`  |  Add      | View |     &check;       |
-| `sow`                | `0x32ab68ce`  |  Add      | View |     &check;       |
-| `sowWithMin`         | `0x553030d0`  |  Add      | View |     &check;       |
+| `sow`                | `0x32ab68ce`  |  Add      | Call |     &check;       |
+| `sowWithMin`         | `0x553030d0`  |  Add      | Call |     &check;       |
 | `temperature`        | `0xadccea12`  |  Add      | View |     &check;       |
 
 #### `FieldFacet` Event Changes
@@ -243,7 +247,7 @@ The following `SeasonFacet` is being added to Beanstalk:
 | `rain`          | `0x43def26e`  |  Replace  | View |                   |
 | `season`        | `0xc50b0fb0`  |  Replace  | View |                   |
 | `seasonTime`    | `0xca7b7d7b`  |  Replace  | View |                   |
-| `sunrise`       | `0xfc06d2a6`  |  Replace  | View |     &check;       |
+| `sunrise`       | `0xfc06d2a6`  |  Replace  | Call |     &check;       |
 | `time`          | `0x16ada547`  |  Replace  | View |                   |
 | `totalDeltaB`   | `0x06c499d8`  |  Replace  | View |                   |
 | `weather`       | `0x686b6159`  |  Replace  | View |                   |
@@ -253,7 +257,7 @@ The following `SeasonFacet` is being added to Beanstalk:
 
 #### `SeasonFacet` Event Changes
 
-None.
+The `MetapoolOracle` event was removed.
 
 ### Initialization Contract
 
