@@ -2,9 +2,9 @@
 
 Proposed: May 12, 2023
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xd47bc5099839f79e1d5ba0870d5c5ffff6ab416787c3ddca69d8500d9877e8e1)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xd47bc5099839f79e1d5ba0870d5c5ffff6ab416787c3ddca69d8500d9877e8e1), [Arweave](https://arweave.net/C0MDoCdgL246J-eSgTl-kxjlrcU_svn5Q4dFaM4Qle8)
 
 ---
 
