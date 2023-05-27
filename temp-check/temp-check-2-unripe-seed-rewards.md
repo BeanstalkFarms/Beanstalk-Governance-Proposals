@@ -2,9 +2,15 @@
 
 Proposed: May 19, 2023
 
-Status: Proposed
+Status:
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xf6a31bbdea6a0298103b217ff75418837a4fd3d5adba203cda11d1e48ae9baf6)
+* 0 Seeds: 7,969,857 Stalk, 57.58%
+* 0.5 Seeds: 0 Stalk, 0.00%
+* 1 Seed: 2,031,601 Stalk, 14.68%
+* 1.5 Seeds: 0 Stalk, 0.00%
+* 2 Seeds: 3,840,932 Stalk, 27.75%
+
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xf6a31bbdea6a0298103b217ff75418837a4fd3d5adba203cda11d1e48ae9baf6), [Arweave](https://arweave.net/M6_voa7-IHe0tUsa63h8NGWywOBsTlBVohXX2iRwFSg)
 
 ---
 
