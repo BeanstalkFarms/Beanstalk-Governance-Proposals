@@ -2,7 +2,7 @@
 
 Proposed: June 26, 2023
 
-Status: Passed
+Status: Proposed
 
 Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0xba995682016736af8bfb8cc4a25adec8a46fdc1c09374e0d02af84483954f44a)
 
