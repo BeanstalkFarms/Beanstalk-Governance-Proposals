@@ -4,7 +4,7 @@ Proposed: June 26, 2023
 
 Status: Proposed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0xec55f84d437f96e473616bb60a21b3a497f53dab804dfbf35e5f7e703af22305)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0xec55f84d437f96e473616bb60a21b3a497f53dab804dfbf35e5f7e703af22305), [Arweave](https://arweave.net/z6m0htSdB27GHENJjQGK0BQ6cORVeb6rlgJd3IlDgN0)
 
 ---
 
