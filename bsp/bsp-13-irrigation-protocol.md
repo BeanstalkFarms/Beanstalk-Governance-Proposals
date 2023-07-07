@@ -42,7 +42,7 @@ The objectives of this proposal are as follows:
 
 ## Budget
 
-Irrigation requests the remaining Bean in the Bean Sprout Multisig (21,333 Beans, to be reduced to 16,333 Beans should BSP-X pass), to be allocated towards covering a portion of the comprehensive security audit, including any required fixes or updates resulting from the audit.
+Irrigation requests the remaining Bean in the Bean Sprout Multisig (21,333 Beans, to be reduced to 16,333 Beans should BSP-12 pass), to be allocated towards covering a portion of the comprehensive security audit, including any required fixes or updates resulting from the audit.
 
 ## Timeline
 
