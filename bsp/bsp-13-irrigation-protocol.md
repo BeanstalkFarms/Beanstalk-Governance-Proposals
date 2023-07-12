@@ -2,9 +2,9 @@
 
 Proposed: July 7, 2023
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/wearebeansprout.eth/proposal/0xfa4418577035866e1f9a4d692977e9002b9819c7942be9088e0419a5c295c8fe)
+Link: [Snapshot](https://snapshot.org/#/wearebeansprout.eth/proposal/0xfa4418577035866e1f9a4d692977e9002b9819c7942be9088e0419a5c295c8fe), [Arweave](https://arweave.net/K1ATu9wjZUNK6kzOukHe7trWoLcgCwzdi-9gSQ156po)
 
 ---
 
