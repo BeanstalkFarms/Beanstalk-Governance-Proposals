@@ -186,7 +186,300 @@ The positive carry of Beans is generally not accessible in DeFi given the lack o
 
 ## Contract Changes
 
-See the [Arweave upload of BIP-36](https://arweave.net/wmvXd6gI0R4E56yuzjC8K45iyp3GTG91bKEKielcDJM) to read the Contract Changes section.
+### Initialization Contract
+
+The `init` function on the following `InitBipNewSilo` contract is called:
+
+- [`0xF6C77e64473b913101F0Ec1bFB75A386aBA15b9E`](https://etherscan.io/address/0xF6C77e64473b913101F0Ec1bFB75A386aBA15b9E#code)
+
+### Silo Facet
+
+The following `SiloFacet` is removed from Beanstalk:
+
+- [`0xe56607c4396c546cb6a137659e42a5fd16e17cfe`](https://etherscan.io/address/0xe56607c4396c546cb6a137659e42a5fd16e17cfe#code)
+
+The following `SiloFacet` is added to Beanstalk:
+
+- [`0x7D98D7b3486b228b1B449AB7360b72869C2DEF4F`](https://etherscan.io/address/0x7D98D7b3486b228b1B449AB7360b72869C2DEF4F#code)
+
+#### `SiloFacet` Function Changes
+
+| Name                    | Selector     | Action  | Type | New Functionality |
+|:------------------------|:-------------|:--------|:-----|:------------------|
+| `balanceOf`             | `0x00fdd58e` | Add     | View | ✓                 |
+| `balanceOfBatch`        | `0x4e1273f4` | Add     | View | ✓                 |
+| `balanceOfEarnedBeans`  | `0x3e465a2e` | Replace | View |                   |
+| `balanceOfEarnedSeeds`  | `0x602aa123` | Remove  | View |                   |
+| `balanceOfEarnedStalk`  | `0x341b94d5` | Replace | View |                   |
+| `balanceOfGrownStalk`   | `0x249564aa` | Remove  | View | ✓                 |
+| `balanceOfGrownStalk`   | `0x8915ba24` | Add     | View | ✓                 |
+| `balanceOfPlenty`       | `0x896651e8` | Replace | View | ✓                 |
+| `balanceOfRainRoots`    | `0x69fbad94` | Replace | View |                   |
+| `balanceOfRoots`        | `0xba39dc02` | Replace | View |                   |
+| `balanceOfSeeds`        | `0x4916bc72` | Remove  | View |                   |
+| `balanceOfSop`          | `0xa7bf680f` | Replace | View |                   |
+| `balanceOfStalk`        | `0x8eeae310` | Replace | View |                   |
+| `claimPlenty`           | `0x45947ba9` | Replace | Call |                   |
+| `deposit`               | `0xf19ed6be` | Replace | Call |                   |
+| `getDeposit`            | `0x8a6a7eb4` | Remove  | View |                   |
+| `getDeposit`            | `0x61449212` | Add     | View |                   |
+| `getDepositId`          | `0x98f2b8ad` | Add     | View | ✓                 |
+| `getSeedsPerToken`      | `0x9f9962e4` | Add     | View | ✓                 |
+| `getTotalDeposited`     | `0x0c9c31bd` | Replace | View |                   |
+| `getTotalDepositedBDV`  | `0x9d6a924e` | Add     | View | ✓                 |
+| `grownStalkForDeposit`  | `0x3a1b0606` | Add     | View | ✓                 |
+| `inVestingPeriod`       | `0x0b2939d1` | Add     | View | ✓                 |
+| `lastSeasonOfPlenty`    | `0xbe6547d2` | Replace | View |                   |
+| `lastUpdate`            | `0xcb03fb1e` | Replace | View |                   |
+| `migrationNeeded`       | `0xc38b3c18` | Add     | View | ✓                 |
+| `update`                | `0x1c1b8772` | Remove  | Call |                   |
+| `mow`                   | `0x150d5173` | Add     | Call | ✓                 |
+| `mowMultiple`           | `0x7d44f5bb` | Add     | Call | ✓                 |
+| `plant`                 | `0x779b3c5c` | Replace | Call |                   |
+| `safeBatchTransferFrom` | `0x2eb2c2d6` | Add     | Call | ✓                 |
+| `safeTransferFrom`      | `0xf242432a` | Add     | Call | ✓                 |
+| `seasonToStem`          | `0x896ab1c6` | Add     | View | ✓                 |
+| `stemStartSeason`       | `0xbc771977` | Add     | View | ✓                 |
+| `stemTipForToken`       | `0xabed2d41` | Add     | View | ✓                 |
+| `tokenSettings`         | `0xe923e8d4` | Replace | View |                   |
+| `totalEarnedBeans`      | `0xfd9de166` | Replace | View |                   |
+| `totalRoots`            | `0x46544166` | Replace | View |                   |
+| `totalSeeds`            | `0xd8bd0d9d` | Remove  | View |                   |
+| `totalStalk`            | `0x7b52fadf` | Replace | View |                   |
+| `transferDeposit`       | `0x9e32d261` | Remove  | Call | ✓                 |
+| `transferDeposit`       | `0x081d77ba` | Add     | Call | ✓                 |
+| `transferDeposits`      | `0x0d2615b1` | Remove  | Call | ✓                 |
+| `transferDeposits`      | `0xc56411f6` | Add     | Call | ✓                 |
+| `withdrawDeposit`       | `0x7af9a0ce` | Remove  | Call |                   |
+| `withdrawDeposit`       | `0xe348f82b` | Add     | Call | ✓                 |
+| `withdrawDeposits`      | `0xb189d9c8` | Remove  | Call |                   |
+| `withdrawDeposits`      | `0x27e047f1` | Add     | Call | ✓                 |
+| `withdrawFreeze`        | `0x55926690` | Remove  | View |                   |
+
+#### `SiloFacet` Event Changes
+
+| Name                   | Change                                                    |
+|:-----------------------|:----------------------------------------------------------|
+| `AddDeposit`           | Updated to reflect new Deposit accounting system          |
+| `AddWithdrawal`        | Removed                                                   |
+| `RemoveDeposit`        | Updated to reflect new Deposit accounting system          |
+| `RemoveDeposits`       | Updated to reflect new Deposit accounting system          |
+| `SeedsBalanceChanged`  | Removed                                                   |
+| `TransferBatch`        | Emitted when multiple Deposits are removed or transferred |
+| `TransferSingle`       | Emitted when a Deposit is created, removed or transferred |
+
+### Legacy Claim Withdrawal Facet
+
+The following `LegacyClaimWithdrawalFacet` is added to Beanstalk:
+
+- [`0x93703ADC951B76451e3006960cFB3F927D7E7ef6`](https://etherscan.io/address/0x93703ADC951B76451e3006960cFB3F927D7E7ef6#code)
+
+#### `LegacyClaimWithdrawalFacet` Function Changes
+
+| Name                | Selector     | Action   | Type | New Functionality |
+|:--------------------|:-------------|:---------|:-----|:------------------|
+| `claimWithdrawal`   | `0x488e94dc` | Replace  | Call |                   |
+| `claimWithdrawals`  | `0x764a9874` | Replace  | Call |                   |
+| `getTotalWithdrawn` | `0xb1c7a20f` | Replace  | View |                   |
+| `getWithdrawal`     | `0xe23c96a4` | Replace  | View |                   |
+
+#### `LegacyClaimWithdrawalFacet` Event Changes
+
+None.
+
+### Season Facet
+
+The following `SeasonFacet` is removed from Beanstalk:
+
+- [`0x9c9360C85cd020D4eF38775F6ADEdD38931f1731`](https://etherscan.io/address/0x9c9360C85cd020D4eF38775F6ADEdD38931f1731#code)
+
+The following `SeasonFacet` is added to Beanstalk:
+
+- [`0x3981E1b15c6CBb48953522A0F0aaCfE14074FFd5`](https://etherscan.io/address/0x3981E1b15c6CBb48953522A0F0aaCfE14074FFd5#code)
+
+#### `SeasonFacet` Function Changes
+
+| Name            | Selector     | Action  | Type | New Functionality |
+|:----------------|:-------------|:--------|:-----|:------------------|
+| `abovePeg`      | `0x2a27c499` | Replace | View |                   |
+| `gm`            | `0x64ee4b80` | Replace | Call |                   |
+| `paused`        | `0x5c975abb` | Replace | View |                   |
+| `plentyPerRoot` | `0xe60d7a83` | Replace | View |                   |
+| `poolDeltaB`    | `0x471bcdbe` | Replace | View |                   |
+| `rain`          | `0x43def26e` | Replace | View |                   |
+| `season`        | `0xc50b0fb0` | Replace | View |                   |
+| `seasonTime`    | `0xca7b7d7b` | Replace | View |                   |
+| `sunrise`       | `0xfc06d2a6` | Replace | Call |                   |
+| `sunriseBlock`  | `0x3b2ecb70` | Replace | View |                   |
+| `time`          | `0x16ada547` | Replace | View |                   |
+| `totalDeltaB`   | `0x06c499d8` | Replace | View |                   |
+| `weather`       | `0x686b6159` | Replace | View |                   |
+
+#### `SeasonFacet` Event Changes
+
+None.
+
+### Migration Facet
+
+The following `MigrationFacet` is added to Beanstalk:
+
+- [`0x141209527F95540E0B018E56EDf5a59E1339437F`](https://etherscan.io/address/0x141209527F95540E0B018E56EDf5a59E1339437F#code)
+
+#### `MigrationFacet` Function Changes
+
+| Name                                     | Selector     | Action | Type | New Functionality |
+|:-----------------------------------------|:-------------|:-------|:-----|:------------------|
+| `balanceOfGrownStalkUpToStemsDeployment` | `0x505f43ea` | Add    | View | ✓                 |
+| `balanceOfLegacySeeds`                   | `0x1be2cfd8` | Add    | View | ✓                 |
+| `getDepositLegacy`                       | `0xa9be1acb` | Add    | View | ✓                 |
+| `mowAndMigrate`                          | `0x1f4f3d55` | Add    | Call | ✓                 |
+| `mowAndMigrateNoDeposits`                | `0xaed942e9` | Add    | Call | ✓                 |
+
+#### `MigrationFacet` Event Changes
+
+None.
+
+### Approval Facet
+
+The following `ApprovalFacet` is added to Beanstalk:
+
+- [`0xbDEc07f18E7E5A27d104fB8e83Cb71C3fB68e12F`](https://etherscan.io/address/0xbDEc07f18E7E5A27d104fB8e83Cb71C3fB68e12F#code)
+
+#### `ApprovalFacet` Function Changes
+
+
+| Name                           | Selector     | Action  | Type | New Functionality |
+|:-------------------------------|:-------------|:--------|:-----|:------------------|
+| `approveDeposit`               | `0x1302afc2` | Replace | Call |                   |
+| `decreaseDepositAllowance`     | `0xd9ee1269` | Replace | Call |                   |
+| `depositAllowance`             | `0x2a6a8ef5` | Replace | View |                   |
+| `depositPermitDomainSeparator` | `0x8966e0ff` | Replace | View |                   |
+| `depositPermitNonces`          | `0x843bc425` | Replace | View |                   |
+| `increaseDepositAllowance`     | `0x5793e485` | Replace | Call |                   |
+| `isApprovedForAll`             | `0xe985e9c5` | Add     | View | ✓                 |
+| `permitDeposit`                | `0x120b5702` | Replace | Call |                   |
+| `permitDeposits`               | `0xd5770dc7` | Replace | Call |                   |
+| `setApprovalForAll`            | `0xa22cb465` | Add     | Call | ✓                 |
+
+#### `ApprovalFacet` Event Changes
+
+| Name               | Change                                 |
+|:-------------------|:---------------------------------------|
+| `ApprovalForAll`   | New event                              |
+
+### Convert Facet
+
+The following `ConvertFacet` is removed from Beanstalk:
+
+- [`0xd24959190e29b13e1accb578d02b15d73a2231f3`](https://etherscan.io/address/0xd24959190e29b13e1accb578d02b15d73a2231f3#code)
+
+The following `ConvertFacet` is added to Beanstalk:
+
+- [`0x6334Da4a08b22E612b6A00321601Fd2f2E6a821C`](https://etherscan.io/address/0x6334Da4a08b22E612b6A00321601Fd2f2E6a821C#code)
+
+#### `ConvertFacet` Function Changes
+
+| Name                  | Selector     | Action   | Type | New Functionality |
+|:----------------------|:-------------|:---------|:-----|:------------------|
+| `convert`             | `0x3b2a1b28` | Remove   | Call |                   |
+| `convert`             | `0xb362a6e8` | Add      | Call | ✓                 |
+| `enrootDeposit`       | `0xd5d2ea8c` | Remove   | Call |                   |
+| `enrootDeposit`       | `0x0b58f073` | Add      | Call | ✓                 |
+| `enrootDeposits`      | `0x83b9e85d` | Remove   | Call |                   |
+| `enrootDeposits`      | `0x88fcd169` | Add      | Call | ✓                 |
+| `getAmountOut`        | `0x4aa06652` | Replace  | View |                   |
+| `getMaxAmountIn`      | `0x24dd285c` | Replace  | View |                   |
+
+#### `ConvertFacet` Event Changes
+
+| Name              | Change                                            |
+|:------------------|:--------------------------------------------------|
+| `RemoveDeposit`   | New event                                         |
+| `RemoveDeposits`  | Updated to reflect new Deposit accounting system  |
+| `TransferBatch`   | New event                                         |
+
+### Whitelist Facet
+
+The following `WhitelistFacet` is removed from Beanstalk:
+
+- [`0xaea0e6e011106968adc7943579c829e49efddad0`](https://etherscan.io/address/0xaea0e6e011106968adc7943579c829e49efddad0#code)
+
+The following `WhitelistFacet` is added to Beanstalk:
+
+- [`0xF286Bb8297DdB248Fbde33BD1E309778DA930795`](https://etherscan.io/address/0xF286Bb8297DdB248Fbde33BD1E309778DA930795#code)
+
+#### `WhitelistFacet` Function Changes
+
+| Name                                 | Selector     | Action   | Type | New Functionality |
+|:-------------------------------------|:-------------|:---------|:-----|:------------------|
+| `dewhitelistToken`                   | `0x86b40a1b` | Replace  | Call |                   |
+| `updateStalkPerBdvPerSeasonForToken` | `0xf18d9ed0` | Add      | Call | ✓                 |
+| `whitelistToken`                     | `0xd8a6aafe` | Replace  | Call | ✓                 |
+
+#### `WhitelistFacet` Event Changes
+
+| Name                           | Change                                           |
+|:-------------------------------|:-------------------------------------------------|
+| `UpdatedStalkPerBdvPerSeason`  | New event                                        |
+| `WhitelistToken`               | Updated to reflect new Deposit accounting system |
+
+### Metadata Facet
+
+The following `MetadataFacet` is added to Beanstalk:
+
+- [`0xd16B381CC6d5991F012C238f02F50aF3bd9f6A20`](https://etherscan.io/address/0xd16B381CC6d5991F012C238f02F50aF3bd9f6A20#code)
+
+#### `MetadataFacet` Function Changes
+
+| Name                   | Selector     | Action  | Type | New Functionality |
+|:-----------------------|:-------------|:--------|:-----|:------------------|
+| `imageURI`             | `0x8f742d16` | Add     | View | ✓                 |
+| `uri               `   | `0x0e89341c` | Add     | View | ✓                 |
+
+#### `MetadataFacet` Event Changes
+
+None.
+
+### Token Facet
+
+The following `TokenFacet`(s) are being removed from Beanstalk:
+
+- [`0x8d00ef08775872374a327355fe0fdbdece1106cf`](https://etherscan.io/address/0x8d00ef08775872374a327355fe0fdbdece1106cf#code)
+- [`0x50eb0085c31dfa8cf86ca16def77520e762ead4a`](https://etherscan.io/address/0x50eb0085c31dfa8cf86ca16def77520e762ead4a#code)
+
+The following `TokenFacet` is added to Beanstalk:
+
+- [`0x49540129B19409181C3b4111E078C8ef53b2F577`](https://etherscan.io/address/0x49540129B19409181C3b4111E078C8ef53b2F577#code)
+
+#### `TokenFacet` Function Changes
+
+| Name                            | Selector     | Action  | Type | New Functionality |
+|:--------------------------------|:-------------|:--------|:-----|:------------------|
+| `approveToken`                  | `0xda3e3397` | Replace | Call |                   |
+| `decreaseTokenAllowance`        | `0x0bc33ce4` | Replace | Call |                   |
+| `getAllBalance`                 | `0xfdb28811` | Replace | View |                   |
+| `getAllBalances`                | `0xb6fc38f9` | Replace | View |                   |
+| `getBalance`                    | `0xd4fac45d` | Replace | View |                   |
+| `getBalances`                   | `0x6a385ae9` | Replace | View |                   |
+| `getExternalBalance`            | `0x4667fa3d` | Replace | View |                   |
+| `getExternalBalances`           | `0xc3714723` | Replace | View |                   |
+| `getInternalBalance`            | `0x8a65d2e0` | Replace | View |                   |
+| `getInternalBalances`           | `0xa98edb17` | Replace | View |                   |
+| `increaseTokenAllowance`        | `0xb39062e6` | Replace | Call |                   |
+| `onERC1155BatchReceived`        | `0xbc197c81` | Add     | View | ✓                 |
+| `onERC1155Received`             | `0xf23a6e61` | Add     | View | ✓                 |
+| `permitToken`                   | `0x7c516e94` | Replace | Call |                   |
+| `tokenAllowance`                | `0x8e8758d8` | Replace | View |                   |
+| `tokenPermitDomainSeparator`    | `0x1f351f6a` | Replace | View |                   |
+| `tokenPermitNonces`             | `0x4edcab2d` | Replace | View |                   |
+| `transferInternalTokenFrom`     | `0xd3f4ec6f` | Replace | Call |                   |
+| `transferToken`                 | `0x6204aa43` | Replace | Call |                   |
+| `unwrapEth`                     | `0xbd32fac3` | Replace | Call |                   |
+| `wrapEth`                       | `0x1c059365` | Replace | Call |                   |
+
+#### `TokenFacet` Event Changes
+
+None.
 
 ## Beans Minted
 
