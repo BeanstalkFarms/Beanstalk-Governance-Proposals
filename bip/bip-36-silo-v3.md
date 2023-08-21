@@ -4,7 +4,7 @@ Proposed: July 3, 2023
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x177569d988e10303d1018f597b0b30f6888b20530f7b2fb699bda9838fdca70c), [Arweave](https://arweave.net/Zj-OCFwtOxRewDN1RK3tELz_0xyjjBKisL1arwJ3klk)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x177569d988e10303d1018f597b0b30f6888b20530f7b2fb699bda9838fdca70c), [Arweave](https://arweave.net/rSUoGXf3bJPVUZAixhmMtu5sGl6fiNcJ935NO6VMFWE)
 
 ---
 
