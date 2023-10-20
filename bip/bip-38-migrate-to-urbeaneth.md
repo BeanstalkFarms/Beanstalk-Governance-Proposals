@@ -2,9 +2,9 @@
 
 Proposed: October 13, 2023
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x13c1be551a3b96193ab9614814a88535152228520a1ee7bb27db84aa35413d2f)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x13c1be551a3b96193ab9614814a88535152228520a1ee7bb27db84aa35413d2f), [Arweave](https://arweave.net/Km6We3lycOcIql8-cB4_ogmwHSSt5ri01ZUM0GXGvB4)
 
 ---
 
