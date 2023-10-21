@@ -36,7 +36,7 @@ The reserves in the BEANETH Well are expected to increase by ~7700% as a result 
 
 ## Solution
 
-Turn off minting in the BEANETH Well until Season 16663, about 19 Seasons after (in order to substantially overestimate the calculation of ~14.4866 hours) by adding a check in `LibWellMinting.initializeOracle`.
+Turn off minting in the BEANETH Well until Season 16665 (about 20 Seasons after the transaction was committed, in order to substantially overestimate the calculation of ~14.4866 hours) by adding a check in `LibWellMinting.initializeOracle`.
 
 All changes were reviewed by Cyfrin.
 
