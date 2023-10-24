@@ -25,6 +25,7 @@ Per the process outlined in the [BCM Emergency Response Procedures](https://docs
 - [GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/671)
 - [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0xa9bA2C40b263843C04d344727b954A545c81D043&id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x5f7b910cd24efab72bdf5e3092f6481b4f8db1b53b43fdf26c8b489922ee321e)
 - [Etherscan Transaction](https://etherscan.io/tx/0xe359e70e6f9a4b4ff55788855c5c1a2914e21102b914a71ac49b3cb2020f5989)
+- [Arweave](https://arweave.net/im3PLE28EkO_eMo4fPmtcTYBJFRErxZ_44I_LWPDIB8)
 
 ## Problem
 
