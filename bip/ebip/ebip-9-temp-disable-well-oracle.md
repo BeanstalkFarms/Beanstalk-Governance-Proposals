@@ -35,6 +35,18 @@ However, given (1) time-weighted average reserves in the Multi Flow Pump are use
 
 The reserves in the BEANETH Well are expected to increase by ~7700% as a result of adding the liquidity. Increasing at 0.1% a block, it would take 4345.98 blocks for the TWA Multi Flow Pump reserves to catch up to the current Well reserves. This is ~14.4866 hours. 
 
+$$
+1.001^x = \ln(77)
+$$
+
+$$
+x \approx 4345.98 \,\, \text{blocks}
+$$
+
+$$
+\frac{x}{300} = \frac{4345.98}{300} \approx 14.4866 \,\, \text{hours}
+$$
+
 ## Solution
 
 Turn off minting in the BEANETH Well until Season 16665 (about 20 Seasons after the transaction was committed, in order to substantially overestimate the calculation of ~14.4866 hours) by adding a check in `LibWellMinting.initializeOracle`.
