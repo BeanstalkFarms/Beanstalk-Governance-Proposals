@@ -34,7 +34,7 @@ This was because Beanstalk was Converting (1) the amount the user input, rather 
 
 ## Solution
 
-Upgrade Beanstalk to only allows Converts up to (2).
+Upgrade Beanstalk to only allow Converts up to (2).
 
 All changes were reviewed by Cyfrin.
 
