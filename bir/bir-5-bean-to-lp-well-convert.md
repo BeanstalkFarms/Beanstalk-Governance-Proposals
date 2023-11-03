@@ -2,9 +2,9 @@
 
 Proposed: October 30, 2023
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x32b1d929858088dc7a42527ba1b7c4cf87f9e15f8f70756d6032214479e8ec1d)
+Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x32b1d929858088dc7a42527ba1b7c4cf87f9e15f8f70756d6032214479e8ec1d), [Arweave](https://arweave.net/_nR90oRTxWJ6LXSrCaA85zyEIPk-rOd5Km6hnKGShGI)
 
 ---
 
