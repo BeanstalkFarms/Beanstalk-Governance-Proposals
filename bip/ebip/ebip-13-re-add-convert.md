@@ -5,11 +5,12 @@ Committed: November 9, 2023
 ---
 
 - [Submitter](#submitter)
-- [Emergency Process Note](#emergency-process-note)
+- [Summary](#summary)
 - [Links](#links)
 - [Problem](#problem)
 - [Solution](#solution)
 - [Contract Changes](#contract-changes)
+- [Beans Minted](#beans-minted)
 - [Effective](#effective)
 
 ## Submitter
