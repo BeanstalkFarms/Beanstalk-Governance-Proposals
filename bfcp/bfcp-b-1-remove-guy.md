@@ -4,7 +4,7 @@ Proposed: November 10, 2023
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x3c3c381b1ab52cb18696b0c261e130568d69c6daeab3679c76460f52607b8233), [Arweave](https://arweave.net/WfASP6pRErQMb0ppctXbqN8W3bqvm9mLRRfQhKkS6MU)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x3c3c381b1ab52cb18696b0c261e130568d69c6daeab3679c76460f52607b8233), [Arweave](https://arweave.net/cVIdtvkKaojlFDJY_INYm4s2z53ruBw0ZSvkmOGMIsk)
 
 ---
 
