@@ -2,9 +2,9 @@
 
 Proposed: November 10, 2023
 
-Status: Proposed
+Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xa59b3d4ba30888a9435beff7509cfa69879b005234b99724b8d545875f855b42)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xa59b3d4ba30888a9435beff7509cfa69879b005234b99724b8d545875f855b42), [Arweave](https://arweave.net/Q2id8DXVC-1H_44YSrFldUzqnUd4qVY2grel4m6-KxQ)
 
 ---
 
