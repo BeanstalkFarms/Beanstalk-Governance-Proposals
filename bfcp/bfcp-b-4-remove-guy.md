@@ -4,7 +4,7 @@ Proposed: November 17, 2023
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x13f6be7ab27468b640784f7262e74b292202077eb40e0981c4b91d5f2f0bafbe)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0x13f6be7ab27468b640784f7262e74b292202077eb40e0981c4b91d5f2f0bafbe), [Arweave](https://arweave.net/5Pn4QeVYttbtM4csLMnA7CFU0b9GadYwMXmMORcLbnE)
 
 ---
 
@@ -40,7 +40,7 @@ Immediately following the successful removal of the current BFC members, we will
  
 ![image](ipfs://bafybeieyvifyd3bbizecuu4iuff7kro7ockxyoki4mp6okeufdhcy4tkia)
     
-## Rationale:
+## Rationale
 Need a more transparent group of BFC members to keep the community engaged. Currently all timelines and project updates are discussed behind closed doors.
 
 ## New BFC Members
