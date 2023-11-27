@@ -4,7 +4,7 @@ Proposed: November 22, 2023
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x3df4899741db63e66e51939166df737bdb1166be18633dd2dd78fdce45dd22bd)
+Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x3df4899741db63e66e51939166df737bdb1166be18633dd2dd78fdce45dd22bd), [Arweave](https://arweave.net/qWsmsa0ErqWj-ul9PcDuE0EfLh9eiwhtdhWpCzBMmQY)
 
 ---
 
