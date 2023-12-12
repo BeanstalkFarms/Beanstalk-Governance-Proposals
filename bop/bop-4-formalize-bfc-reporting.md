@@ -1,10 +1,10 @@
 # BOP-4: Formalize BFC Reporting
 
-Proposed: November 27, 2023
+Proposed: December 4, 2023
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x7f26bfda64e5b9f61a19bea848ef4bdb644c8cfc27ad47b47bc3dce928c7b888)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x7f26bfda64e5b9f61a19bea848ef4bdb644c8cfc27ad47b47bc3dce928c7b888), [Arweave](https://arweave.net/FMLZGxcoAXxh4k9dSG6ncTnib3LY3Qh9b4XklHeuP8E)
 
 ---
 
