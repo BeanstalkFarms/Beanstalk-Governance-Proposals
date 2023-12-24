@@ -1,10 +1,10 @@
-# BFCP-A-9: Add "rexthebean" aka "Rex" to the BFC (Again)
+# BFCP-A-10: Add "rexthebean" aka "Rex" to the BFC (Again 2x)
 
 Proposed: December 6, 2023
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xf62a1fca70d7d4ca7495e9638bc30dff843f0bf6bec812765fff1746ff4e8f2e), [Arweave](https://arweave.net/I5cLe4CiaBV-pLvQhIjAf6Z5C2cBbKisuWzHherJi3A)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xf62a1fca70d7d4ca7495e9638bc30dff843f0bf6bec812765fff1746ff4e8f2e), [Arweave](https://arweave.net/TwiSBDuAWb1Vz8DVV_pDKcGptF19jRN3f0dCQgCO2h0)
 
 ---
 
@@ -50,4 +50,4 @@ The goal of the DAO should be to provide individuals impacted by the protocol th
 Need a more transparent group of BFC members to keep the community engaged. Currently all timelines and project updates are discussed behind closed doors.
 
 ## New BFC Members
-Going forward BFC members should be able to effectively communicate development and audit plans and timelines. We will support paying these contributors so long as they effectively keep communicating with farmers.
+Going forward BFC members should be able to effectively communicate development and audit plans and timelines. We will support paying these contributors so long as they effectively keep communicating with farmers. so long as they effectively keep communicating with farmers.
