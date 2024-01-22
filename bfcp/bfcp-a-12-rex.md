@@ -4,7 +4,7 @@ Proposed: January 10, 2024
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xc22a5c52476acd4b59c183cdc800e0ab69b47f4dde8378068f323b915740e0e7)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xc22a5c52476acd4b59c183cdc800e0ab69b47f4dde8378068f323b915740e0e7), [Arweave](https://arweave.net/x63K8FQBcySvnGghfRq_cY1yJ0jWNxLV8qABlP18ltI)
 
 ---
 
@@ -37,7 +37,7 @@ Quorum is 25% of total outstanding Stalk participating in the vote.
 - Add "rexthebean" aka "Rex" to BFC
 - Don't Add "rexthebean" aka "Rex" to BFC
 
-## Background:
+## Background
 The Farm needs an outside independent member that is willing to communicate with the broader community. The H2 2023 BFC failed to engage with the community and have not been transparent with the current development timelines and audits.
 
 ## Proposal
