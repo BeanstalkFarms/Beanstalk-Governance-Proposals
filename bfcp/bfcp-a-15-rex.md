@@ -4,7 +4,7 @@ Proposed: February 3, 2024
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xde5a3ec7057b6250a145240d61c10aaac2117f790bb39229ba074c66580225c8)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xde5a3ec7057b6250a145240d61c10aaac2117f790bb39229ba074c66580225c8), [Arweave](https://arweave.net/-bpzURP760lY-CUS3OFEnUkdXEpE0q9e_OAuFZvSFBI)
 
 Note: This proposal incorrectly claims the terms of the existing BFC members have expired. [BFCP-C-3](https://arweave.net/jAKE7eYNIqJOGVsbG5xU8EZDQPKCCXIipFzJo02tMys) extends the term of guy and sweetredbeans to June 2024 and mod323 to March 2024.
 
