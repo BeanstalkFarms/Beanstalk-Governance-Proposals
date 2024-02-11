@@ -4,7 +4,7 @@ Proposed: January 31, 2024
 
 Status: Failed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x83227d95ec06039a920583b1002588efa89fa079692d8c4aebe097bbcc2aaea8)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x83227d95ec06039a920583b1002588efa89fa079692d8c4aebe097bbcc2aaea8), [Arweave](https://arweave.net/9DZrP_OJEDM_a-GH_8AFxTaiUz91ya8lK6KhELO5Ekc)
 
 ---
 
