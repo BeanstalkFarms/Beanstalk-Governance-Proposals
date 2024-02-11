@@ -4,7 +4,7 @@ Proposed: February 5, 2024
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x66b7fa7d5cab3f97f8a685004bf465b8ab603edc55bb9d5b24ea92d64173a50a)
+Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0x66b7fa7d5cab3f97f8a685004bf465b8ab603edc55bb9d5b24ea92d64173a50a), [Arweave](https://arweave.net/CSs4__jXKCiuU7KXd5xvZ_vwDLOqqZXW8aFo5o7loTE)
 
 ---
 
