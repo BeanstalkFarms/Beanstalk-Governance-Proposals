@@ -2,7 +2,7 @@
 
 Proposed: February 5, 2024
 
-Status: Failed
+Status: Passed
 
 Link: [Snapshot](https://snapshot.org/#/beanstalkbugbounty.eth/proposal/0xc9c24e53808bf7de86f54c27a2d0a71b9dcbb916b74e9493d521e6b64fe8d63e)
 
