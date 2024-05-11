@@ -4,6 +4,8 @@ Proposed: May 1, 2024
 
 Status: Withdrawn and replaced by BIP-44
 
+Link: [Arweave](https://arweave.net/ktFKK8K2q5PEpocyoeQuPP6-MdU5vzImEx9Ppl9Kf5s)
+
 ---
 
 - [Proposer](#proposer)
