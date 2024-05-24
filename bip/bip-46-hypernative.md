@@ -4,7 +4,7 @@ Proposed: May 14, 2024
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x76fcaac6c3e2f6982d54f528d1fcf8dd7e51b919a9e5ac032c9ca3a50da0700f)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x76fcaac6c3e2f6982d54f528d1fcf8dd7e51b919a9e5ac032c9ca3a50da0700f), [Arweave](https://arweave.net/2enPPzc5mkN18bXnApmCJNRkxwYc-CiCsU71XPualj4)
 
 ---
 
