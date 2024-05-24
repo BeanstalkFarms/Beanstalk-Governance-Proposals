@@ -7,7 +7,7 @@ Status:
 * For: 61,014,249 Stalk, 81.03%
 * Against: 14,281,409 Stalk, 18.97%
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xc716cb01aeecc01ea4127ace7219e7efe644e8173d228c6b6ff9331c4d373222)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarms.eth/proposal/0xc716cb01aeecc01ea4127ace7219e7efe644e8173d228c6b6ff9331c4d373222), [Arweave](https://arweave.net/1cwGK0NnJt5nvrKpzH1a8TDxcLP3RtKRPC6P4T-c3ik)
 
 ---
 
