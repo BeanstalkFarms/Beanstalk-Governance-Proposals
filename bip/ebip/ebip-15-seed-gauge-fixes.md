@@ -18,7 +18,8 @@ Per the process outlined in the [BCM Emergency Response Procedures](https://docs
 - [EBIP-15 GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/892)
 - GitHub Commit Hash: [2315d3f4a5dc217140c3b95cfec9f48a1d9c35f7](https://github.com/BeanstalkFarms/Beanstalk/tree/2315d3f4a5dc217140c3b95cfec9f48a1d9c35f7)
 - [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0xa9bA2C40b263843C04d344727b954A545c81D043&id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x22522d7a8492e6ba31fb6379807158a4ac34f2ee49ba433c5fc8570a64d44123)
-- [Etherscan Transaction](https://etherscan.io/tx/0x77f7b2a5b58891d4e42dc2381ac810381a426fc2bca8e07062323e8966f22b56 )
+- [Etherscan Transaction](https://etherscan.io/tx/0x77f7b2a5b58891d4e42dc2381ac810381a426fc2bca8e07062323e8966f22b56)
+- [Arweave](https://arweave.net/BUAXNrjoPoL3FoICcFe4Axvl3d99-LmPncAZvNFYv_M)
 
 ## Problem
 
