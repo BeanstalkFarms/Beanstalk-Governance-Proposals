@@ -2,6 +2,17 @@
 
 Committed: May 24, 2024
 
+---
+
+- [Submitter](#submitter)
+- [Summary](#summary)
+- [Links](#links)
+- [Problem](#problem)
+- [Solution](#solution)
+- [Contract Changes](#contract-changes)
+- [Beans Minted](#beans-minted)
+- [Effective](#effective)
+
 ## Submitter
 
 Beanstalk Community Multisig
