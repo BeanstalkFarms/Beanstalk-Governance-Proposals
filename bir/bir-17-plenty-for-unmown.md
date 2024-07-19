@@ -13,6 +13,7 @@ Reward 10,000 Beans to the whitehat that reported the issue where Deposits that 
 * [BIC Process](https://docs.bean.money/governance/beanstalk/bic-process)
 * [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0x879c8B99430F28C4d297BD479Cd43396b4aCF697&id=multisig_0x879c8B99430F28C4d297BD479Cd43396b4aCF697_0x79153efa13bad48ccd13f0a679935997b97b3bb21635dff53b1a341e17ce5cf4)
 * [Etherscan Transaction](https://etherscan.io/tx/0x90b57345c209fe7867f66e51130d35233cffd2ed0095ce5fd15c602dec108b7d)
+* [Arweave](https://arweave.net/0ypUVw7uhueyT0D0OZswuBqGz_vumJ6AnZyjIxO41Og)
 
 ## Bug
 
