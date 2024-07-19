@@ -13,6 +13,7 @@ Reward 10,000 Beans to the whitehat that reported the issue where Plots can be d
 * [BIC Process](https://docs.bean.money/governance/beanstalk/bic-process)
 * [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0x879c8B99430F28C4d297BD479Cd43396b4aCF697&id=multisig_0x879c8B99430F28C4d297BD479Cd43396b4aCF697_0xa14baa12a5812414b826769cfbd8c382fd320e573dd207f0b16bca375393d644)
 * [Etherscan Transaction](https://etherscan.io/tx/0x7edbf455880c8d932600893c6a577e6529bc8647453a8f7e16a1ec73b70420e3)
+* [Arweave](https://arweave.net/s13-Tri7UQCUSilW5-ojVfl9I6eHwVhmCIWbIa3TjCc)
 
 ## Bug
 
