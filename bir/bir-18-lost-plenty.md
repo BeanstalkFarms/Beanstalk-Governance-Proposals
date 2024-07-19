@@ -11,8 +11,9 @@ Reward 10,000 Beans to the whitehat that reported the issue where Farmers that e
 ## Links
 
 * [BIC Process](https://docs.bean.money/governance/beanstalk/bic-process)
-* [Safe Transaction TBD](TBD)
-* [Etherscan Transaction TBD](TBD)
+* [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0x879c8B99430F28C4d297BD479Cd43396b4aCF697&id=multisig_0x879c8B99430F28C4d297BD479Cd43396b4aCF697_0x488709f6c5f29d5085ecf7b852a6205793b97daf4c92445758cc6256ba72c481)
+* [Etherscan Transaction](https://etherscan.io/tx/0xc892c81a7458a3480592a00ac9a7677a09a0fc0e3dbf4ce8e84f91daa3229079)
+* [Arweave](https://arweave.net/qmprTnP-8vB-gc9eF6exJhqO0vl23ue5plNr5cK0WAU)
 
 ## Bug
 
