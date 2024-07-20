@@ -1,6 +1,6 @@
 # EBIP-17: Misc Bug Fixes
 
-Committed: June 2, 2024
+Committed: July 16, 2024
 
 ---
 
