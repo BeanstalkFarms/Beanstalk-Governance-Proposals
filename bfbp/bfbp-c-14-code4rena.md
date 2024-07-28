@@ -2,9 +2,9 @@
 
 Proposed: July 25, 2024
 
-Status: Proposed
+Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x4047adb1d29cd56ebe045747dbe35548e925e41981e112667e1213b9c6b22305)
+Link: [Snapshot](https://snapshot.org/#/beanstalkfarmsbudget.eth/proposal/0x4047adb1d29cd56ebe045747dbe35548e925e41981e112667e1213b9c6b22305), [Arweave](https://arweave.net/UVIED--iQzhgkRLzZaYB1uE_tcKQdCxpjsOGLyB715Q)
 
 ---
 
