@@ -13,6 +13,7 @@ Reward 3,000 Beans to the whitehat that reported the issue where Wells with an o
 * [BIC Process](https://docs.bean.money/governance/beanstalk/bic-process)
 * [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0x879c8B99430F28C4d297BD479Cd43396b4aCF697&id=multisig_0x879c8B99430F28C4d297BD479Cd43396b4aCF697_0xc084500ae53087880d94d00bfc95d67f4cb23aad588531ef051e6e83109fe81b)
 * [Etherscan Transaction](https://etherscan.io/tx/0xaebb350ef5de6d359f94b260bcb20cae0e001d0fe9d755954c196e403386a143)
+* [Arweave](https://arweave.net/NMcEunsrgx-sPPMgBxGG-cCFTrWbo6vbbdSGKydZaWs)
 
 ## Bug
 
