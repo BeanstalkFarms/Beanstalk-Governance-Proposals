@@ -13,6 +13,7 @@ Reward 3,000 Beans to the whitehat that reported the issue where a micro amount 
 * [BIC Process](https://docs.bean.money/governance/beanstalk/bic-process)
 * [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0x879c8B99430F28C4d297BD479Cd43396b4aCF697&id=multisig_0x879c8B99430F28C4d297BD479Cd43396b4aCF697_0x89f9b0fd5933d7bd2d5b615e03325debe355161b5d6444e42784c74b3e1a39c0)
 * [Etherscan Transaction](https://etherscan.io/tx/0xe1c96785e2475b6c9ae79665be81a69fb9c693b99fded8958d000a718d1cdd94)
+* [Arweave](https://arweave.net/AJeMZ-XbvTTv_WssrmoTzhmsKfQEMMJOrow1Z2sck-M)
 
 ## Bug
 
