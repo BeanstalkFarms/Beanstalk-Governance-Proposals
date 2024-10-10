@@ -971,7 +971,7 @@ Remaining `PauseFacet` address: [`0xeab4398f62194948cB25F45fEE4C46Fae2e91229`](h
 
 #### L1 L1TokenFacet
 
-Added `L1TokenFacet` address: [`TBD`](https://etherscan.io/address/TBD#code)
+Added `L1TokenFacet` address: [`0x8F66044a9C95FaE9d38B8Bc30665eE04A2456501`](https://etherscan.io/address/0x8F66044a9C95FaE9d38B8Bc30665eE04A2456501#code)
 
 | Name                                   | Selector     | Action  | Type  | New Functionality |
 |:---------------------------------------|:-------------|:--------|:------|:------------------|
@@ -999,7 +999,7 @@ Added `L1TokenFacet` address: [`TBD`](https://etherscan.io/address/TBD#code)
 
 #### L1 L2MigrationFacet
 
-Added `L2MigrationFacet` address: [`TBD`](https://etherscan.io/address/TBD#code)
+Added `L2MigrationFacet` address: [`0xb7EA01231e518cd22E118165b290f5CC3263F5bB`](https://etherscan.io/address/0xb7EA01231e518cd22E118165b290f5CC3263F5bB#code)
 
 | Name                                   | Selector     | Action  | Type  | New Functionality |
 |:---------------------------------------|:-------------|:--------|:------|:------------------|
