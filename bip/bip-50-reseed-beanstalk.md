@@ -70,8 +70,8 @@ Proposer Wallet: [0xf9d183af486a973b7921ceb5fdc9908d12aab440](https://etherscan.
 ## Links
 
 * [BIP-50 GitHub PR](https://github.com/BeanstalkFarms/Beanstalk/pull/909)
-* GitHub Commit Hash: [TBD](https://github.com/BeanstalkFarms/Beanstalk/pull/758/commits/TBD)
-* [Safe Transaction TBD](TBD)
+* GitHub Commit Hash: [faa0ec60a455b0afdd20ad86f28f41cbc52c2e2d](https://github.com/BeanstalkFarms/Beanstalk/pull/909/commits/faa0ec60a455b0afdd20ad86f28f41cbc52c2e2d)
+* [Safe Transaction](https://app.safe.global/transactions/tx?safe=eth:0xa9bA2C40b263843C04d344727b954A545c81D043&id=multisig_0xa9bA2C40b263843C04d344727b954A545c81D043_0x19f2d9211b0fe8a005ce12f76f147a95ed8bc14d54614848e0bb60c3d2b5a0bd)
 
 ## Problem
 
@@ -518,7 +518,7 @@ $$\log_{25(0.1) + 1}\left(0.1x+1\right)$$
 
 See [Desmos link](https://www.desmos.com/calculator/hsplkhgaaq).
 
-![](https://hackmd.io/_uploads/HJns_C3sC.png)
+![](https://arweave.net/_hYWMFMKdeUt-LKj9itcxteMBuAPaSO2pVzqqj69-a4)
 
 Due to the L2 Migration, in practice the Temperature only updates `L1_BLOCK_TIME / L2_BLOCK_TIME = 12/0.25 = 48` times. The duration of the Morning is still 5 minutes. Thus, on Arbitrum, the Temperature during the first 1200 blocks of each Season is calculated as:
 
@@ -832,7 +832,7 @@ weETH has the largest TVL of any liquid staking derivative on Arbitrum. Basin do
 
 ### L1 Initialization Contract
 
-The `init` function on the ReseedL2Migration contract is called: [`TBD`](https://etherscan.io/address/TBD#code)
+The `init` function on the ReseedL2Migration contract is called: [`0xE35c0397dBB43EB7E2cb28a182d857a3A42eFaDB`](https://etherscan.io/address/0xE35c0397dBB43EB7E2cb28a182d857a3A42eFaDB#code)
 
 ### L1 Beanstalk
 
@@ -856,7 +856,7 @@ After the conclusion of the L2 migration, anytime a Farmer migrates L1 Circulati
 
 ## Audit
 
-The commit hash of this BIP is [TBD](https://github.com/BeanstalkFarms/Beanstalk/pull/TBD).
+The commit hash of this BIP is [faa0ec60a455b0afdd20ad86f28f41cbc52c2e2d](https://github.com/BeanstalkFarms/Beanstalk/pull/909/commits/faa0ec60a455b0afdd20ad86f28f41cbc52c2e2d).
 
 An audit competition of this upgrade was held via Codehawks using commit hash [4e0ad0b964f74a1b4880114f4dd5b339bc69cd3e](https://github.com/Cyfrin/2024-05-beanstalk-the-finale/tree/4e0ad0b964f74a1b4880114f4dd5b339bc69cd3e). The final report can be read [here](https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale/results?lt=contest&page=1&sc=reward&sj=reward&t=report).
 
