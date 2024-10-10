@@ -1,5 +1,7 @@
 # EBIP-18: Burn Excess Unripe and Ripe Beans
 
+View on [Arweave](https://arweave.net/q2W9NcKsljQglNsRnuS3jBJ-XqbVJ_Rbk4KwWCJzBn4)
+
 ## Submitter
 
 Beanstalk Community Multisig
