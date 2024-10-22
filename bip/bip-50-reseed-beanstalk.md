@@ -6,7 +6,11 @@ Status: Passed
 
 Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb5f21487caf4e7b0ddd1ac536a4165ea21eb18348987aec95e1cb56148ca916d), [Arweave](https://arweave.net/ciB1dygmXmEjLSOWv5P1NhAf-4BhOcMCH1ZfJw5JmMs)
 
-Note: During the BIP-50 vote, it was noticed that the L2 TokenFacet proposed to be added to the L2 Beanstalk referenced the L1 WETH contract address instead of the Arbitrum WETH contract address. The L2 TokenFacet was redeployed at 0xf8B5Fa117f492608b8f16AAE84C69175ead6A38d using the correct WETH contract address. The text below represents BIP-50 as voted upon, without the address correction.
+Note: During the BIP-50 vote, it was noticed that the L2 TokenFacet proposed to be added to the L2 Beanstalk referenced the L1 WETH contract address instead of the Arbitrum WETH contract address. The L2 TokenFacet was redeployed at 0xf8B5Fa117f492608b8f16AAE84C69175ead6A38d using the correct WETH contract address. 
+
+BIP-50 incorrectly listed UpdatedSeedGaugeSettings as a new event. The correct event name is UpdatedEvaluationParameters.
+
+The text below represents BIP-50 as voted upon, without corrections.
 
 ---
 
