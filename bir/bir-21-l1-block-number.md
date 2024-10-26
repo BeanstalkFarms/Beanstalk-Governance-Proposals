@@ -13,6 +13,7 @@ Reward 5,000 Beans to the whitehat that reported the L1 `block.number` issue res
 * [BIC Process](https://docs.bean.money/governance/beanstalk/bic-process)
 * [Safe Transaction](https://app.safe.global/transactions/tx?safe=arb1:0x390b023d316c2e92dd96A9bcC7fAe8dB12A2fBC1&id=multisig_0x390b023d316c2e92dd96A9bcC7fAe8dB12A2fBC1_0x480a0e41342c588d544e70999e81e8a8a99c7c4cf69dbf3e4a8ef30660d0e214)
 * [Arbiscan Transaction](https://arbiscan.io/tx/0x70df7393caf7c98aaea596728a74d97fb9e86740ff1f91c30bf628a8d57dcbd3)
+* [Arbiscan](https://arweave.net/iq85yCgAd-S6W7p3yQGY1kDt58bCOuXN6Skh6_TCTgg)
 
 ## Bug
 
