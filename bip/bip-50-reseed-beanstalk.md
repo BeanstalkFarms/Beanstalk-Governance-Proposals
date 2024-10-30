@@ -4,11 +4,13 @@ Proposed: October 1, 2024
 
 Status: Passed
 
-Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb5f21487caf4e7b0ddd1ac536a4165ea21eb18348987aec95e1cb56148ca916d), [Arweave](https://arweave.net/C4n5dKE9zWX7H424-fsodc9f2kN5nNclN3SmzIQVT6E)
+Link: [Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0xb5f21487caf4e7b0ddd1ac536a4165ea21eb18348987aec95e1cb56148ca916d), [Arweave](https://arweave.net/sl_UxJFZbThaTxOMgH8ewLo7cwODJh54s9HtbU8MOl0)
 
 Note: During the BIP-50 vote, it was noticed that the L2 TokenFacet proposed to be added to the L2 Beanstalk referenced the L1 WETH contract address instead of the Arbitrum WETH contract address. The L2 TokenFacet was redeployed at 0xf8B5Fa117f492608b8f16AAE84C69175ead6A38d using the correct WETH contract address. 
 
-BIP-50 incorrectly listed InternalBalanceChanged as a modified event. It was unchanged.
+BIP-50 stated that PauseFacet was left on the L1 mainnet. It was removed.
+
+BIP-50 listed InternalBalanceChanged as a modified event. It was unchanged.
 
 BIP-50 incorrectly listed UpdatedSeedGaugeSettings as a new event. The correct event name is UpdatedEvaluationParameters.
 
